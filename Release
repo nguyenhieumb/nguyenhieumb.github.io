@@ -1,9 +1,9 @@
-Origin: Pdhlnpt’s Repo
-Label: HHTV’s Repo
+Origin: Taoviet’s Repo
+Label: Taoviet's Repo
 Suite: stable
 Version: 1.0
-Codename: Pdhlnpt
+Codename: Taoviet
 Architectures: iphoneos-arm
 Components: main
-Description: HHTV’s Repo
+Description: Taoviet's Repo
 MD5Sum:
