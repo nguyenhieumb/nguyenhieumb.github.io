@@ -1,9 +1,9 @@
-Origin: Taoviet’s Repo
-Label: Taoviet's Repo
+Origin: Nguyên Hiếu Mobile’s Repo
+Label: Nguyên Hiếu Mobile’s Repo
 Suite: stable
 Version: 1.0
-Codename: Taoviet
+Codename: Nguyenhieumb
 Architectures: iphoneos-arm
 Components: main
-Description: Taoviet's Repo
+Description: Nguyên Hiếu Mobile's Repo
 MD5Sum:
