@@ -1,4 +1,4 @@
-Package: com.sonpham1102.sptouchios9
+Package: com.nguyenhieumb.sptouchios9
 Architecture: iphoneos-arm
 Author: Paolo Smedile <paolosmedile@me.com>
 Conflicts: com.paolosmedile.sptouch
@@ -11,7 +11,7 @@ Icon: file:///Library/PreferenceLoader/Preferences/SPTouchIcon@2x.png
 Installed-Size: 192
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: SPTouch for iOS 9
-Filename: debs//tweaks/com.nguyenhieumb.sptouchios9.deb
+Filename: debs//com.nguyenhieumb.sptouchios9.deb
 Size: 50604
 MD5sum: c2c4d8ee85943a1942584cd7ef64951d
 Section: Tweaks
