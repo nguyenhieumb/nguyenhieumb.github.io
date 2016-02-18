@@ -1,13 +1,19 @@
-Package: com.pdhlnpt.AppToDebChuan
-Version: 1.2
+Package: com.sonpham1102.sptouchios9
 Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com> 
-Filename: ./debs/com.pdhlnpt.AppToDebChuan.deb
-Size: 67744
-MD5sum: 4D6DD549DABF842816B0999289713006
-SHA1: 30C454958682589D582DB2FE33273DABCE41077B
-SHA256: 1D4FE882B5B24BE7361ADC5C1619434ED826904F42DF38D9D4451A7A7012EEEE
-Description: Chuyen app —> deb.
-Author: HieuPham <pdhlnpt@yahoo.com>
-Depiction: http://pdhlnpt.github.io/depictions/?p=com.pdhlnpt.AppToDebChuan
-Name: AppToDeb
+Author: Paolo Smedile <paolosmedile@me.com>
+Conflicts: com.paolosmedile.sptouch
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Description: Thêm nút home ảo cho iphone của bạn.
+dev: paolosmedile
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Icon: file:///Library/PreferenceLoader/Preferences/SPTouchIcon@2x.png
+Installed-Size: 192
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SPTouch for iOS 9
+Filename: debs//tweaks/com.nguyenhieumb.sptouchios9.deb
+Size: 50604
+MD5sum: c2c4d8ee85943a1942584cd7ef64951d
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Version: 3.0
