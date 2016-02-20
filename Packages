@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Author: cole cabral @ca13ra1 <cabralcole@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeshuttersoundDp
-Description: Removes camera shutter sound.
+Description: ứng dụng hỗ trợ ngắt tiếng chụp ảnh cho IOS9.
 dev: ca13ra1
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeshuttersoundDp
 Installed-Size: 135
