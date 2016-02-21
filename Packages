@@ -36,3 +36,24 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.0-1
+
+Package: com.nguyenhieumb.switchservice
+Architecture: iphoneos-arm
+Author: Creatix <ioscreatix@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=switchserviceDp
+Description: Giữ nút Send để chuyển đổi giữa iMsg và SMS
+dev: creatix
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=switchserviceDp
+Icon: file:///Library/PreferenceBundles/SwitchService.bundle/SwitchService@2x.png
+Installed-Size: 297
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwitchService
+Filename: debs//tweaks/com.nguyenhieumb.switchservice.deb
+Size: 42534
+MD5sum: 62437094275877609776147a3d9ffc4a
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 3.0.0
