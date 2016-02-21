@@ -57,3 +57,23 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 3.0.0
+
+Name: Wifi Passwords List
+Architecture: iphoneos-arm
+Author: Ash Apps <support@multifl0w.com>
+Depends: firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Description: Xem password và thông tin của các mạng wifi đã từng vào
+dev: aaronash
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Icon: file:///Applications/WifiPasswordList.app/Icon-60.png
+Installed-Size: 3512
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Package: com.nguyenhieumb.wifipasswordslist
+Filename: debs//tweaks/com.nguyenhieumb.wifipasswordslist.deb
+Size: 1313934
+MD5sum: 68e3c948d39c325e396b0f39f0ea96c9
+Section: Utilities
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.0.1-1
