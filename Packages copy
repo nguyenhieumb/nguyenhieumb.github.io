@@ -77,3 +77,18 @@ Section: Utilities
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 1.0.1-1
+
+Package: com.nguyenhieumb.ccquickpro9
+Architecture: iphoneos-arm
+Author: Cunstuck
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols, org.thebigboss.ccquickpro, com.repo.xarold.com.ccquickpro, org.thebigboss.ccquickpro8, com.repo.xarold.com.ccquickpro8
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro9Dp
+Description: shortcuts & powerful options for Control Center
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Name: CCQuick Pro for iOS9
+Filename: debs//tweaks/com.nguyenhieumb.ccquickpro9.deb
+Size: 344476
+MD5sum: 3fd5c3de8a3f6221790adf3e1150ca4a
+Section: Tweaks
+Version: 1.0-3
