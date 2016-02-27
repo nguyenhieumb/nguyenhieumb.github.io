@@ -126,3 +126,24 @@ Size: 69884
 MD5sum: c60ec91a911b3ead5f9784b5ac4b3d2e
 Section: Utilities
 Version: 0.0.1-20
+
+Package: com.nguyenhieumb.hotdog
+Architecture: iphoneos-arm
+Author: fidele007 <kforcefidele@yahoo.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotdogDp
+Description: Giúp Tuỳ biến giao diện màn hình khoá và thanh status bar
+dev: fidele007
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotdogDp
+Icon: file:///Library/PreferenceBundles/hotdogpref.bundle/hotdogpref@2x.png
+Installed-Size: 605
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: HotDog
+Filename: debs//tweaks/com.nguyenhieumb.hotdog.deb
+Size: 138420
+MD5sum: a74cc7c37481a0c3109ebaa9df8e4585
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 3.3.1
