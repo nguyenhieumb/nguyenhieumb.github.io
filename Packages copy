@@ -112,3 +112,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.0.0
+
+Package: com.nguyenhieumb.quicklock46
+Architecture: iphoneos-arm
+Author: nguyenhieumb <nguyenhieumb@dr.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Description: Just touch to lock your device! This package supports iOS 6, 7 and 8  Thanks @hieupham
+Installed-Size: 348
+Maintainer: deVbug <devbug@devbug.me>
+Name: quicklock46
+Filename: debs//tweaks/com.nguyenhieumb.quicklock46.deb
+Size: 69884
+MD5sum: c60ec91a911b3ead5f9784b5ac4b3d2e
+Section: Utilities
+Version: 0.0.1-20
