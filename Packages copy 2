@@ -117,7 +117,7 @@ Package: com.nguyenhieumb.quicklock46
 Architecture: iphoneos-arm
 Author: nguyenhieumb <nguyenhieumb@dr.com>
 Depends: mobilesubstrate, firmware (>= 6.0)
-Description: Just touch to lock your device! This package supports iOS 6, 7 and 8  Thanks @hieupham
+Description: Just touch to lock your device! This package supports iOS 6, 7 8 and 9 Thanks @hieupham
 Installed-Size: 348
 Maintainer: deVbug <devbug@devbug.me>
 Name: quicklock46
