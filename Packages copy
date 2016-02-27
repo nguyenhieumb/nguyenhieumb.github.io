@@ -92,3 +92,23 @@ Size: 344476
 MD5sum: 3fd5c3de8a3f6221790adf3e1150ca4a
 Section: Tweaks
 Version: 1.0-3
+
+Package: com.nguyenhieumb.quickclear
+Architecture: iphoneos-arm
+Author: Creatix  & @SUP3RGIU <ioscreatix@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickclearDp
+Description: 3D Touch menu to clear app badge
+dev: creatix
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickclearDp
+Installed-Size: 169
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: QuickClear
+Filename: debs//tweaks/com.nguyenhieumb.quickclear.deb
+Size: 25104
+MD5sum: 1c12562526e8a3bf2a6441ec2d04757e
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.0
