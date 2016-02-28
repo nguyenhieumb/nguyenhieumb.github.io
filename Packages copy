@@ -147,3 +147,23 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 3.3.1
+
+Package: com.nguyenhieumb.swipetodeletecontact
+Architecture: iphoneos-arm
+Author: Rene Kahle <packetfahrer@web.de>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Description: Hỗ trợ xoá danh bạ bằng cách vuốt sang bên trái
+dev: packetfahrer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Icon: file:///Library/PreferenceBundles/SwipeToDeleteContact.bundle/SwipeToDeleteContactsPref@2x.png
+Installed-Size: 764
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwipeToDeleteContact
+Filename: debs//tweaks/com.nguyenhieumb.swipetodeletecontact.deb
+Size: 83498
+MD5sum: 60c6cb436baad1c25b7cdd6715e35610
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.5
