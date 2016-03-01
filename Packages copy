@@ -167,3 +167,22 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 1.0.5
+
+Package: com.nguyenhieumb.ensemble
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ensembleDp
+Description: CC Controls ngay trong NC
+dev: cpdigitaldarkroom
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ensembleDp
+Installed-Size: 114
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Ensemble
+Filename: debs//tweaks/com.nguyenhieumb.ensemble.deb
+Size: 9238
+MD5sum: 84800f96d79b635b12d1b7dfdf1f0e36
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.2-1
