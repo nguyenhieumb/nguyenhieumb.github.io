@@ -186,3 +186,22 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 1.0.2-1
+
+Package: com.nguyenhieumb.safarihistory
+Architecture: iphoneos-arm
+Author: Brave Heart <alsafa7dev@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safarihistoryDp
+Description: delete multiple history cells in Safari
+dev: alsafa7dev
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safarihistoryDp
+Installed-Size: 98
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SafariHistory
+Filename: debs//tweaks/com.nguyenhieumb.safarihistory.deb
+Size: 12958
+MD5sum: cc7491df2c11406e39355c6b9d1f3044
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.0
