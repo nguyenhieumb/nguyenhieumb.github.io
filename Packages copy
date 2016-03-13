@@ -205,3 +205,23 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.0.0
+
+Package: com.nguyenhieumb.cream
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: firmware (>= 9), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Description: Mang lại màu sắc sống động cho CC Toggles như của Watch OS
+dev: cpdigitaldarkroom
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Icon: file:///Library/PreferenceBundles/Cream.bundle/images/Cream@2x.png
+Installed-Size: 323
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Cream
+Filename: debs//tweaks/com.nguyenhieumb.cream.deb
+Size: 97920
+MD5sum: 0bda38362953e91c0473fb14ad38809c
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 0.0.5
