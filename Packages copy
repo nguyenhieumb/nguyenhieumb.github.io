@@ -225,3 +225,19 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 0.0.5
+
+Package: com.nguyenhieumb.magiclabels
+Architecture: iphoneos-arm
+Author: vXBaKeRXv <vxbakerxv@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depiction: http://modmyi.com/info/magiclabels.d.php
+Description: Color App or Folder Icon Labels Individually.
+Homepage: http://modmyi.com/info/magiclabels.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: MagicLabels
+Filename: debs//tweaks/com.nguyenhieumb.magiclabels.deb
+Size: 137410
+MD5sum: da6230ec2a0af2a1f268784b35661b59
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Version: 1.0
