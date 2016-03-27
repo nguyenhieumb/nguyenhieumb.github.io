@@ -275,3 +275,17 @@ MD5sum: a18eb91c3ae33deb6bcb89548321ba61
 Section: Tweaks
 Sponsor: insanelyi <http://insanelyi.com>
 Version: 1.2
+
+Package: com.nguyenhieumb.audiorecorder
+Architecture: iphoneos-arm
+Author: Elias Limneos
+Conflicts: net.limneos.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: http://repo.xarold.com/depiction.php?id=audiorecorder
+Description: Ghi âm cuộc gọi cho Ios 8 & 9
+Name: AudioRecorder 2 (iOS 8 & 9)
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder.deb
+Size: 3017348
+MD5sum: bb78c5f4e398e14771400b1855d67afb
+Section: Tweaks
+Version: 1.2-30
