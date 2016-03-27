@@ -261,3 +261,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.1-1
+
+Package: com.nguyenhieumb.apptodebchuan
+Architecture: iphoneos-arm
+Author: Philippe
+Depiction: http://repo.insanelyi.com/depiction.php?package=apptodeb
+Description: An app to recreate deb files.
+Maintainer: insanelyi <noreply@insanelyi.com>
+Name: AppToDeb
+Filename: debs//tweaks/com.nguyenhieumb.apptodebchuan.deb
+Size: 67774
+MD5sum: a18eb91c3ae33deb6bcb89548321ba61
+Section: Tweaks
+Sponsor: insanelyi <http://insanelyi.com>
+Version: 1.2
