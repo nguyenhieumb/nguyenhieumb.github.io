@@ -289,3 +289,17 @@ Size: 3017348
 MD5sum: bb78c5f4e398e14771400b1855d67afb
 Section: Tweaks
 Version: 1.2-30
+
+Package: com.nguyenhieumb.quickcenter
+Architecture: iphoneos-arm
+Author: Creatix
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
+Depiction: http://repo.xarold.com/depiction.php?id=quickcenter
+Description: Ứng dụng nhỏ thêm hiêu ứng nhấn giữ vào các icon của CC!!!
+Icon: file:///Library/PreferenceBundles/quickcenter.bundle/icon@2x.png
+Name: QuickCenter
+Filename: debs//tweaks/com.nguyenhieumb.quickcenter.deb
+Size: 1111866
+MD5sum: 3f26bbf1d752318943395390d0b0723b
+Section: Tweaks
+Version: 1.0.5
