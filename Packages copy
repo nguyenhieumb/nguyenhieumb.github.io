@@ -303,3 +303,24 @@ Size: 1111866
 MD5sum: 3f26bbf1d752318943395390d0b0723b
 Section: Tweaks
 Version: 1.0.5
+
+Package: com.nguyenhieumb.minitime
+Architecture: iphoneos-arm
+Author: J.C.T <jct@82flex.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minitimeDp
+Description: Enable miniTime on the LockScreen.
+dev: jct
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minitimeDp
+Icon: file:///Library/PreferenceBundles/miniTimePrefs.bundle/miniTimePrefs@2x.png
+Installed-Size: 265
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: miniTime
+Filename: debs//tweaks/com.nguyenhieumb.minitime.deb
+Size: 81576
+MD5sum: 5da83a0d34501b2f8392d43222c690f4
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.1-1
