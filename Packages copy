@@ -356,7 +356,7 @@ Depends: winterboard
 Depiction: http://repo.xarold.com/depiction.php?id=veexillum
 Description: True Simplicity
 Name: Veexillum
-Filename: debs//themes/com.nguyenhieumb.veexillum
+Filename: debs//themes/com.nguyenhieumb.veexillum.deb
 Size: 16178022
 MD5sum: 3a7e061c10fa6bce232300e85959eb92
 Section: Themes
