@@ -338,7 +338,7 @@ Icon: file:///Applications/Anemone.app/icon.png
 Installed-Size: 5311
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Anemone
-Filename: debs//tweaks/com.nguyenhieumb.minitime.deb
+Filename: debs//tweaks/com.nguyenhieumb.anemone.deb
 Size: 3926536
 MD5sum: 405d78a2bdc8a30094448363b3a5cff4
 Priority: optional
@@ -348,3 +348,16 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 1.1-213
+
+Package: com.nguyenhieumb.veexillum
+Architecture: iphoneos-arm
+Author: veerklempt
+Depends: winterboard
+Depiction: http://repo.xarold.com/depiction.php?id=veexillum
+Description: True Simplicity
+Name: Veexillum
+Filename: debs//themes/com.nguyenhieumb.veexillum
+Size: 16178022
+MD5sum: 3a7e061c10fa6bce232300e85959eb92
+Section: Themes
+Version: 1.9.1
