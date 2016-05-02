@@ -353,7 +353,7 @@ Package: com.nguyenhieumb.veexillum
 Architecture: iphoneos-arm
 Author: veerklempt
 Depends: winterboard
-Depiction: themes veexillum cho IP 5- 5s - 6 - 6S - 6+ 6S+
+Depiction: http://repo.xarold.com/depiction.php?id=veexillum
 Description: True Simplicity
 Name: Veexillum
 Filename: debs//themes/com.nguyenhieumb.veexillum.deb
