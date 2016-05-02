@@ -361,3 +361,18 @@ Size: 16178022
 MD5sum: 3a7e061c10fa6bce232300e85959eb92
 Section: Themes
 Version: 1.9.1
+
+Package: com.nguyenhieumb.aceelcap
+IArchitecture: iphoneos-arm
+Author: anasgaberali <e.anasgaber@ymail.com>
+Depends: winterboard
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
+Description: Theme theo phong cách El Capital giành cho IOS
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
+Maintainer: iDevid <repo@hackyouriphone.org>
+Name: Ace El Cap
+Filename: debs//themes/com.nguyenhieumb.aceelcap.deb
+Size: 32109072
+MD5sum: 4c8ee82423305b8d288e905d31b01381
+Section: Themes
+Version: 1.3
