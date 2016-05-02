@@ -367,7 +367,7 @@ IArchitecture: iphoneos-arm
 Author: anasgaberali <e.anasgaber@ymail.com>
 Depends: winterboard
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
-Description: Theme theo phong cách El Capital giành cho IOS
+Description: Theme El Capital gianh cho IOS
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
 Maintainer: iDevid <repo@hackyouriphone.org>
 Name: Ace El Cap
