@@ -353,7 +353,7 @@ Package: com.nguyenhieumb.veexillum
 Architecture: iphoneos-arm
 Author: veerklempt
 Depends: winterboard
-Depiction: http://repo.xarold.com/depiction.php?id=veexillum
+Depiction: themes veexillum cho IP 5- 5s - 6 - 6S - 6+ 6S+
 Description: True Simplicity
 Name: Veexillum
 Filename: debs//themes/com.nguyenhieumb.veexillum.deb
@@ -367,7 +367,7 @@ IArchitecture: iphoneos-arm
 Author: anasgaberali <e.anasgaber@ymail.com>
 Depends: winterboard
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
-Description: Theme El Capital gianh cho IOS
+Description: Theme theo phong cách El Capital giành cho IOS
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aceelcap
 Maintainer: iDevid <repo@hackyouriphone.org>
 Name: Ace El Cap
