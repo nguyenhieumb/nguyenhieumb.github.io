@@ -380,20 +380,20 @@ Architecture: iphoneos-arm
 Author: Rene Tejeda <renet.tejeda@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
-Description: Video nhạc chuông hình nền động cho IOS9
+Description: Use video as a background ringtone!
 dev: renettejeda
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
 Icon: file:///Library/PreferenceBundles/liveRingingPrefs.bundle/liveRingingPrefs@2x.png
-Installed-Size: 3311
+Installed-Size: 3312
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: LiveRinging
 Filename: debs//tweaks/com.nguyenhieumb.liveringing.deb
-Size: 1076944
-MD5sum: 9a0292439446e44dd826cc78c0365161
+Size: 1080458
+MD5sum: 88f4a39509229013732524b1d5258ae1
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios9
-Version: 1.0.2
+Version: 1.0.4
 
 Package: com.nguyenhieumb.mediadownload
 Architecture: iphoneos-arm
