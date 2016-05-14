@@ -441,8 +441,8 @@ Icon: file:///Applications/CydiaRestore.app/AppIcon60x60@2x
 Maintainer: Manuel Ante <aptcydiarestore@gmail.com>
 Name: Cydia Restore
 Filename: debs//tweaks/com.nguyenhieumb.apt-cydiarestore.deb
-Size: 33294
-MD5sum: 0bad9ac0d142d4f92530e534d8d1ab25
+Size: 33540
+MD5sum: 8abf6d2aed4bb0b573a3f5d80bcb3bbd
 Section: Tweaks
 Version: 7.6.5
 
