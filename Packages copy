@@ -460,6 +460,5 @@ Name: AppHide
 Filename: debs//tweaks/com.nguyenhieumb.apphide.deb
 Size: 13316
 MD5sum: 1834e0fe9363f3005bb7884d9cb8bb60
-Priority: optional
-Section: System
+Section: Tweaks
 Version: 0.2.3-2
