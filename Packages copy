@@ -446,3 +446,20 @@ MD5sum: 8abf6d2aed4bb0b573a3f5d80bcb3bbd
 Section: Tweaks
 Version: 7.6.5
 
+Package: com.nguyenhieumb.apphide
+Architecture: iphoneos-arm
+Author: Jerry En <Jerry+apphide@jerryen.com>
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Depiction: http://cydia.jerryen.com/apphide.html
+Description:Phần mềm hỗ trợ ẩn các ứng dụng.
+dev: 
+Homepage: 
+Icon: 
+Installed-Size: 280
+Name: AppHide
+Filename: debs//tweaks/com.nguyenhieumb.apphide.deb
+Size: 13316
+MD5sum: 1834e0fe9363f3005bb7884d9cb8bb60
+Priority: optional
+Section: System
+Version: 0.2.3-2
