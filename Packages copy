@@ -462,3 +462,15 @@ Size: 13316
 MD5sum: 1834e0fe9363f3005bb7884d9cb8bb60
 Section: Tweaks
 Version: 0.2.3-2
+
+Package: com.nguyenhieumb.zingmp3download
+Architecture: iphoneos-arm
+Author: NguyenHungA5
+Depends: mobilesubstrate
+Description: Tweak for Zing mp3, Hỗ trợ download nhạc chất lượng cao
+Name: Zing Mp3 Download
+Filename: debs//tweaks/com.nguyenhieumb.zingmp3download.deb
+Size: 19338
+MD5sum: 34ca8e59b19e0fc247df0c44196eb176
+Section: Tweaks
+Version: 0.0.6-15
