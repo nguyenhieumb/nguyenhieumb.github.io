@@ -474,3 +474,16 @@ Size: 19338
 MD5sum: 34ca8e59b19e0fc247df0c44196eb176
 Section: Tweaks
 Version: 0.0.6-15
+
+Package: com.nguyenhieumb.quickdoios9
+Architecture: iphoneos-arm
+Author: Ma Jun
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qda, com.clezz.qdb
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Description: Activator-compatible version by NHMB
+Name: QuickDo iOS 9
+Filename: debs//tweaks/com.nguyenhieumb.quickdoios9.deb
+Size: 1682256
+MD5sum: e33878c37ce728f5faeff2c14ce9e12b
+Section: iOS 9
+Version: 3.9.2~beta4-1
