@@ -487,3 +487,17 @@ Size: 1682256
 MD5sum: e33878c37ce728f5faeff2c14ce9e12b
 Section: Tweaks
 Version: 3.9.2~beta4-1
+
+Package: com.nguyenhieumb.cydown
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Depiction: Install paid packages for Free in Cydia!
+Description: Install paid packages for Free in Cydia!
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+Filename: debs//tweaks/com.nguyenhieumb.cydown.deb
+Size: 1418214
+MD5sum: 28853eeca1ce866b921861f4c347b0f2
+Section: Tweaks
+Version: 6.2.7
