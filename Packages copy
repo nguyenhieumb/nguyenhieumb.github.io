@@ -516,8 +516,8 @@ Installed-Size: 3310
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CCSettings for iOS 8/9
 Filename: debs//tweaks/com.nguyenhieumb.ccsettings.ios8.deb
-Size: 1100128
-MD5sum: 400bcd89b5764d3c046bfb0b0b4b01d0
+Size: 1100644
+MD5sum: f161139c0db903b6c863b7e7050099b2
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
