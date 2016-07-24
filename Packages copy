@@ -501,3 +501,24 @@ Size: 1418214
 MD5sum: 28853eeca1ce866b921861f4c347b0f2
 Section: Tweaks
 Version: 6.2.7
+
+Package: com.nguyenhieumb.ccsettings.ios8
+Architecture: iphoneos-arm
+Author: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.ccsettings
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Description: Thêm các tiện ích cho control center
+dev: plipala
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Icon: file:///Library/PreferenceBundles/CCSettingsPreferences.bundle/CCSettingsPreferences@2x.png
+Installed-Size: 3310
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCSettings for iOS 8/9
+Filename: debs//tweaks/com.nguyenhieumb.ccsettings.ios8.deb
+Size: 1100128
+MD5sum: 400bcd89b5764d3c046bfb0b0b4b01d0
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 0.0.7-8
