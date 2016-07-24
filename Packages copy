@@ -522,3 +522,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 0.0.7-8
+
+Package: com.nguyenhieumb.springtomize3mod
+Architecture: iphoneos-arm
+Author: FilippoBiga
+Conflicts: com.filippobiga.springtomize2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Description: Springtomize 3fix cho IOS 4--IOS9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Name: Springtomize mod(For IOS 4.x-9.x)
+Filename: debs//tweaks/com.nguyenhieumb.springtomize3mod.deb
+Size: 420422
+MD5sum: 965f735ed05b9a5607ca7cd95f0fafa5
+Section: Tweaks
+Version: 1.x
