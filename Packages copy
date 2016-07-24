@@ -317,7 +317,7 @@ Installed-Size: 440
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: miniTime
 Filename: debs//tweaks/com.nguyenhieumb.minitime.deb
-Size: 119,112
+Size: 119112
 MD5sum: 4dd27e053243914bffead36a01266de2
 Priority: optional
 Section: Tweaks
