@@ -549,3 +549,19 @@ Size: 21067304
 MD5sum: e783ed74914c34e35e1e3a58a74f7f9f
 Section: Tweaks
 Version: 2.07-3
+
+Package: com.nguyenhieumb.icleanerpro
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi
+Conflicts: org.altervista.exilecom.icleaner
+Depends: firmware (>= 4.0)
+Depiction: Ứng dụng dọn dẹp hệ thống
+Description: Ứng dụng dọn dẹp hệ thống 
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+Filename: debs//tweaks/com.nguyenhieumb.icleanerpro.deb
+Size: 2855726
+MD5sum: e15a93988d63babfc0645d9ab70be626
+Pre-Depends: apt, findutils, shell-cmds
+Section: Utilities
+Version: 7.5.1
