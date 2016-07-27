@@ -528,11 +528,11 @@ Architecture: iphoneos-arm
 Author: FilippoBiga
 Conflicts: com.filippobiga.springtomize2
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
-Description: Springtomize 3fix cho IOS 4--IOS9
+Description: Ứng dụng tuỳ biến toàn bộ giao diện cho iPhone!
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
-Name: Springtomize mod(For IOS 4.x-9.x)
+Name: Springtomize 3 Mod (IOS 7--IOS9)
 Filename: debs//tweaks/com.nguyenhieumb.springtomize3mod.deb
-Size: 420422
-MD5sum: 965f735ed05b9a5607ca7cd95f0fafa5
+Size: 866244
+MD5sum: 7fa977ec1f404d39c86a6124b52b6724
 Section: Tweaks
-Version: 1.x
+Version: 1.4.3-1
