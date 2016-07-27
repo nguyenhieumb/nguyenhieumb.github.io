@@ -545,7 +545,7 @@ Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
 Description: Công cụ ghi âm cuộc gọi!
 Name: Super Recorder IOS9
 Filename: debs//tweaks/com.nguyenhieumb.superrecorderios9.deb
-Size: 21067346
-MD5sum: 5328e08ec3b0f40b066cf795ee7b6bee
+Size: 21067356
+MD5sum: 2a8c88e4b040affa8ee6a6e2769e0aa5
 Section: Tweaks
 Version: 2.07-3
