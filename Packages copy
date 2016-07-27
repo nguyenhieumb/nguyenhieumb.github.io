@@ -536,3 +536,16 @@ Size: 866244
 MD5sum: 7fa977ec1f404d39c86a6124b52b6724
 Section: Tweaks
 Version: 1.4.3-1
+
+Package: com.nguyenhieumb.superrecorderios9
+Architecture: iphoneos-arm
+Author: hAcx
+Conflicts: repo.so.superrecorder, org.hacx.callrecorder, repo.so.callrecorder
+Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
+Description: Công cụ ghi âm cuộc gọi!
+Name: Super Recorder IOS9
+Filename: debs//tweaks/com.nguyenhieumb.superrecorderios9.deb
+Size: 21067346
+MD5sum: 5328e08ec3b0f40b066cf795ee7b6bee
+Section: Tweaks
+Version: 2.07-3
