@@ -592,7 +592,7 @@ Architecture: iphoneos-arm
 Author: Ma Jun <majun3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
-Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+Description: Awesome multitasking gestures and more.
 dev: clezz
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
 Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
