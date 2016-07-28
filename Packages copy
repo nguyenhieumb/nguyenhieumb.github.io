@@ -565,3 +565,24 @@ MD5sum: e15a93988d63babfc0645d9ab70be626
 Pre-Depends: apt, findutils, shell-cmds
 Section: Utilities
 Version: 7.5.1
+
+Package: com.nguyenhieumb.virtualhome8n9
+Architecture: iphoneos-arm
+Author: moeseth <cydia@wootylab.com>
+Conflicts: com.w00tylab.virtualhome
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 8.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=virtualhome8Dp
+Description: Ứng dụng hỗ trợ chạm nút home thay cho việc bấm nút home
+dev: moeseth
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=virtualhome8Dp
+Icon: file:///Library/PreferenceBundles/VirtualHome.bundle/virtualhome@2x.png
+Installed-Size: 349
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: VirtualHome 8 n 9
+Filename: debs//tweaks/com.nguyenhieumb.virtualhome8n9.deb
+Size: 110736
+MD5sum: f4ea48778580309067a638bc356bca8b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Version: 2.0-1
