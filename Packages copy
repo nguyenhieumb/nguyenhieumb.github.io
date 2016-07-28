@@ -586,3 +586,23 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
 Version: 2.0-1
+
+Package: com.nguyenhieumb.tage
+Architecture: iphoneos-arm
+Author: Ma Jun <majun3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+dev: clezz
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Installed-Size: 1912
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Tage
+Filename: debs//tweaks/com.nguyenhieumb.tage.deb
+Size: 586194
+MD5sum: 98d017edbff01e314e5702462a5c64a9
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.2-4
