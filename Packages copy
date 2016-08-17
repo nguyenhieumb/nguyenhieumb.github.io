@@ -623,3 +623,18 @@ MD5sum: ba8ce7970c3d5748ca595fd1f055babc
 Priority: optional
 Section: Tweaks
 Version: 1.0-2
+
+Package: com.nguyenhieumb.locationfaker8n9
+Architecture: iphoneos-arm
+Author: Cunstuck
+Conflicts: org.thebigboss.locationchangerx, com.repo.xarold.com.locationchangerx
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Depiction: http://repo.xarold.com/depiction.php?id=locationfaker8
+Description: Giả lập vị trí cho IOS 8  và IOS 9
+Icon: file:///Applications/LocationChanger.app/icon.png
+Name: LocationFaker9
+Filename: debs//tweaks/com.nguyenhieumb.locationfaker8n9.deb
+Size: 558838
+MD5sum: 91b85ac587452fe9cc1cdb14757063c3
+Section: Tweaks
+Version: 1.2-9
