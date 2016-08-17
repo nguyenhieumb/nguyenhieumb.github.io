@@ -525,17 +525,18 @@ Version: 0.0.7-8
 
 Package: com.nguyenhieumb.springtomize3mod
 Architecture: iphoneos-arm
-Author: FilippoBiga
+Author: Filippo & Janosch
 Conflicts: com.filippobiga.springtomize2
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
-Description: Ứng dụng tuỳ biến toàn bộ giao diện cho iPhone!
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
-Name: Springtomize 3 Mod (IOS 7--IOS9)
+Depiction: http://repo.xarold.com/depiction.php?id=springtomize3
+Description: Customize your device like never before.
+Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
+Name: Springtomize 3 (iOS 9/8/7)
 Filename: debs//tweaks/com.nguyenhieumb.springtomize3mod.deb
-Size: 866244
-MD5sum: 7fa977ec1f404d39c86a6124b52b6724
+Size: 866802
+MD5sum: b5a5c11e5a20095052715122f28a1ec9
 Section: Tweaks
-Version: 1.4.3-1
+Version: 1.4.5-1
 
 Package: com.nguyenhieumb.superrecorderios9
 Architecture: iphoneos-arm
