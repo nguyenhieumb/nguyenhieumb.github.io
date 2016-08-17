@@ -632,9 +632,9 @@ Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Depiction: http://repo.xarold.com/depiction.php?id=locationfaker8
 Description: Giả lập vị trí cho IOS 8  và IOS 9
 Icon: file:///Applications/LocationChanger.app/icon.png
-Name: LocationFaker9
+Name: LocationFaker8n9
 Filename: debs//tweaks/com.nguyenhieumb.locationfaker8n9.deb
-Size: 558838
-MD5sum: 91b85ac587452fe9cc1cdb14757063c3
+Size: 558846
+MD5sum: 45faea9b10cc13b8178f3f5f2fee0f1a
 Section: Tweaks
 Version: 1.2-9
