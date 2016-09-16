@@ -662,3 +662,37 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.3.4
+
+Package: com.nguyenhieumb.pgpatch
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Conflicts: com.cokepokes.masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.williamcobb.pokemongoanywhere, com.williamcobb.pokemongoanywherebeta
+Depends: mobilesubstrate, firmware (>= 7.0), com.n00neimp0rtant.xcon (>= 41) | com.n00neimp0rtant.xcon-pokemongo
+Description: Cho phep Pokemon chay tren cac may JB
+dev: i4iphones
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Poke Patch for Pokemon Go!
+Filename: debs//tweaks/com.nguyenhieumb.pgpatch.deb
+Size: 8356
+MD5sum: 129a91a4605537612c880be39e9c3b71
+Priority: optional
+Section: Tweaks
+Tag: purpose::extension, role::enduser
+Version: 1.0r-9
+
+Package: com.nguyenhieumb.xcon-pokemongo
+Architecture: iphoneos-arm
+Author: Lunatik
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner, com.n00neimp0rtant.xcon
+Depends: mobilesubstrate, com.nguyenhieumb.pgpatch
+Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
+Description: Cho phép máy jailbreak choi đc pokemon go
+Maintainer: Lunatik
+Name: xCon for PokemonGo
+Filename: debs//tweaks/com.nguyenhieumb.xcon-pokemongo.deb
+Size: 142458
+MD5sum: cf472110acef8563952b4a7b222cd62d
+Provides: com.nguyenhieumb.xcon
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner, com.n00neimp0rtant.xcon
+Section: Tweaks
+Version: 45-1
