@@ -315,17 +315,17 @@ Description: Hiển thị miniTime trên màn hình khoá.
 dev: jct
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minitimeDp
 Icon: file:///Library/PreferenceBundles/miniTimePrefs.bundle/miniTimePrefs@2x.png
-Installed-Size: 440
+Installed-Size: 451
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: miniTime
 Filename: debs//tweaks/com.nguyenhieumb.minitime.deb
-Size: 119112
-MD5sum: 4dd27e053243914bffead36a01266de2
+Size: 119140
+MD5sum: f5d6a1f8d226db7bbc2c10134f711574
 Priority: optional
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-Version: 1.3-3
+Version: 1.4-6
 
 Package: com.nguyenhieumb.anemone
 Architecture: iphoneos-arm
