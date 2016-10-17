@@ -558,16 +558,15 @@ Architecture: iphoneos-arm
 Author: Ivano Bilenchi
 Conflicts: org.altervista.exilecom.icleaner
 Depends: firmware (>= 4.0)
-Depiction: Ứng dụng dọn dẹp hệ thống
-Description: Ứng dụng dọn dẹp hệ thống 
+Description: Ứng dụng dọn dẹp hệ thống
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 Filename: debs//tweaks/com.nguyenhieumb.icleanerpro.deb
-Size: 2855726
-MD5sum: e15a93988d63babfc0645d9ab70be626
+Size: 3063732
+MD5sum: 2eb83628458e994a6fd2c35cc744d3b9
 Pre-Depends: apt, findutils, shell-cmds
 Section: Utilities
-Version: 7.5.1
+Version: 7.5.6
 
 Package: com.nguyenhieumb.virtualhome8n9
 Architecture: iphoneos-arm
