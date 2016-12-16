@@ -695,3 +695,22 @@ Provides: com.nguyenhieumb.xcon
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner, com.n00neimp0rtant.xcon
 Section: Tweaks
 Version: 45-1
+
+Package: com.nguyenhieumb.xcon
+Architecture: iphoneos-arm
+Author: Lunatik & JailbreakVideo
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Depends: mobilesubstrate (>= 0.9.6101), killall
+Depiction: http://repo.insanelyi.com/depiction.php?package=xcon
+Description: xCon — bypass detect JB
+Icon: file:///Applications/Cydia.app/Sections/JV Tweaks.png
+Installed-Size: 350
+Maintainer: insanelyi <noreply@insanelyi.com>
+Name: xCon
+Filename: debs//tweaks/com.nguyenhieumb.xcon.deb
+Size: 86466
+MD5sum: e51b9192c5157095f9fdc0a0debc25fe
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Section: iTweaks
+Sponsor: insanelyi <http://insanelyi.com>
+Version: 41
