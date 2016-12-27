@@ -714,3 +714,16 @@ Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Section: iTweaks
 Sponsor: insanelyi <http://insanelyi.com>
 Version: 41
+
+Package: nguyenhieumb.springtomize3Mod
+Architecture: iphoneos-arm
+Author: FilippoBiga
+Conflicts: com.filippobiga.springtomize2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Description: Springtomize 3 Mod chạy trên mọi phiên bản từ 7x Fix by NguyenHieu Apple
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Name: Springtomize3Mod
+Filename: debs//tweaks/nguyenhieumb.springtomize3Mod.deb
+Size: 419378
+MD5sum: 355fa777900956f7e0d694e5f98048ba
+Version: 1.x
