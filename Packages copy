@@ -717,13 +717,13 @@ Version: 41
 
 Package: com.nguyenhieumb.springtomize3Fix
 Architecture: iphoneos-arm
-Author: Kalora
+Author: nguyenhieumb
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
-Depiction: http://repo.iosdelisi.com/depiction/springtomize3.html
+Depiction: Springtomize 3Fix for iOS 7x - 10x.
 Description: Springtomize 3Fix for iOS 7x - 10x.
-Name: Springtomize 3Fix for iOS 7x - 10x
+Name: Springtomize 3Fix for iOS 7x - 10x.
 Filename: debs//tweaks/com.nguyenhieumb.springtomize3Fix.deb
-Size: 410848
-MD5sum: f8b6dcefd2e7d47f62d7316a82a84c02
+Size: 410820
+MD5sum: a6f660e8d36132d66bef95e4cb924c73
 Section: Tweaks
 Version: 1.4fix
