@@ -714,16 +714,3 @@ Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Section: iTweaks
 Sponsor: insanelyi <http://insanelyi.com>
 Version: 41
-
-Package: com.nguyenhieumb.springtomize3Fix
-Architecture: iphoneos-arm
-Author: Kalora
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
-Depiction: http://repo.iosdelisi.com/depiction/springtomize3.html
-Description: Springtomize 3Fix for iOS 7x - 10x.
-Name: Springtomize 3Fix for iOS 7x - 10x
-Filename: debs//tweaks/com.nguyenhieumb.springtomize3Fix.deb
-Size: 410848
-MD5sum: c2fe0e54338ab1628259904311b9ebe0
-Section: Tweaks
-Version: 1.4fix
