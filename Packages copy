@@ -737,7 +737,7 @@ Installed-Size: 232
 Maintainer: Jamie Bishop
 Name: CCData
 Filename: debs//tweaks/com.nguyenhieumb.ccdata.deb
-Size: 18810
-MD5sum: 25760ef8f4cb3208b778cdfc2e6f9397
+Size: 23946
+MD5sum: a6a70739f152acc96500cf27ad36452d
 Section: Tweaks
 Version: 1.0-1+debug
