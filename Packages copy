@@ -761,3 +761,18 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10
 Version: 0.0.1-2
+
+Package: com.nguyenhieumb.adblockforyoutube
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depends: firmware (>= 8.0)
+Depiction: 
+Description: Chặn quảng cáo youtube trên 10.1.x
+dev: freemanrepo
+Name: AdBlock for YouTube
+Filename: debs//tweaks/com.nguyenhieumb.adblockforyoutube.deb
+Size: 37982
+MD5sum: 318ebf7222cc3b86b698286ac627e928
+Priority: optional
+Section: Tweaks
+Version: 1.0.0
