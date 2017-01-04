@@ -781,10 +781,13 @@ Package: com.nguyenhieumb.touchr
 Architecture: iphoneos-arm
 Author: Ma Jun
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Depiction: http://repo.xarold.com/depiction.php?id=touchr
 Description: Công cụ nút home ảo trên ios 9 - 10
+dev: clezz
+Icon: file:///Library/PreferenceBundles/TouchrSettings.bundle/Icon-small@2x.png
 Name: Touchr
 Filename: debs//tweaks/com.nguyenhieumb.touchr.deb
-Size: 189290
-MD5sum: 11107c7bfd024492442d6de1c69f77bc
+Size: 189346
+MD5sum: 5cdd92e3ba3762efcc9380e8d9e93a26
 Section: Tweaks
 Version: 1.0.1
