@@ -790,8 +790,8 @@ Installed-Size: 702
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Touchr
 Filename: debs//tweaks/com.nguyenhieumb.touchr.deb
-Size: 189460
-MD5sum: df08add0ab93cd4499e39ad215553896
+Size: 37982
+MD5sum: 318ebf7222cc3b86b698286ac627e928
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::obsolete, purpose::library, compatible::ios9, compatible::ios10
