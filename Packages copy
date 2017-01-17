@@ -494,15 +494,15 @@ Package: com.nguyenhieumb.cydown
 Architecture: iphoneos-arm
 Author: julioverne
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Depiction: Install paid packages for Free in Cydia!
-Description: Install paid packages for Free in Cydia!
+Depiction: Cài đặt các ứng dụng trả phí trên cydia!!!
+Description: Cài đặt các ứng dụng trả phí trên cydia!!!
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 Filename: debs//tweaks/com.nguyenhieumb.cydown.deb
-Size: 1418214
-MD5sum: 28853eeca1ce866b921861f4c347b0f2
+Size: 1752734
+MD5sum: 96d3a3ac2989e125db2b2dd00b5c1059
 Section: Tweaks
-Version: 6.2.7
+Version: 6.5.7
 
 Package: com.nguyenhieumb.ccsettings.ios8
 Architecture: iphoneos-arm
