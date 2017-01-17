@@ -812,3 +812,18 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10
 Version: 1.0.2
+
+Package: com.nguyenhieumb.redeb
+Architecture: iphoneos-arm
+Author: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6),com.nguyenhieumb.mterminal
+Depiction: Đóng lại file deb bằng mterminal;
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Maintainer: T.Herak <50dc856b@opayq.com>
+Name: redeb
+Filename: debs//tweaks/com.nguyenhieumb.redeb.deb
+Size: 3754
+MD5sum: 2226f0994230a8d9a2b7277aeb774589
+Priority: optional
+Section: Tweaks
+Version: 1.0.3
