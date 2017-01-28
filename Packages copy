@@ -846,12 +846,12 @@ Package: com.nguyenhieumb.outofcontrol
 Architecture: iphoneos-arm
 Author: Antique <boernai290@gmail.com>
 Depends: mobilesubstrate
-Description: Random màu sắc của Control Center.
+Description: Random màu cho các nút của Control Center
 Installed-Size: 136
 Maintainer: Antique <boernai290@gmail.com>
 Name: OutOfControl
-Filename: debs//tweaks/com.nguyenhieumb.outofcontrol.deb
-Size: 5766
-MD5sum: ed39f9117402aad34209942d57d1cd4a
+Filename: debs//tweaks/com.nguyenhieumb.bke.deb
+Size: 5778
+MD5sum: ad832dde95e13f64bd4e3342325662ef
 Section: Tweaks
 Version: 6.1a
