@@ -842,17 +842,3 @@ Size: 4608
 MD5sum: 065b639d7f37d62e2d15056020b072cb
 Section: Tweaks
 Version: 1.0
-
-Package: com.nguyenhieumb.outofcontrol
-Architecture: iphoneos-arm
-Author: Antique <boernai290@gmail.com>
-Depends: mobilesubstrate
-Description: Random màu sắc của Control Center.
-Installed-Size: 136
-Maintainer: Antique <boernai290@gmail.com>
-Name: OutOfControl
-Filename: debs//tweaks/com.nguyenhieumb.outofcontrol.deb
-Size: 5766
-MD5sum: ed39f9117402aad34209942d57d1cd4a
-Section: Tweaks
-Version: 6.1a
