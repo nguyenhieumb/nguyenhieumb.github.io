@@ -828,17 +828,3 @@ MD5sum: 2226f0994230a8d9a2b7277aeb774589
 Priority: optional
 Section: Tweaks
 Version: 1.0.3
-
-Package: com.nguyenhieumb.bke
-Architecture: iphoneos-arm
-Author: Rishanan
-Depends: mobilesubstrate
-Description: Bàn phím đen mọi lúc mọi nơi!!!
-Installed-Size: 117
-Maintainer: Rishanan
-Name: BlackKeyboardEverywhere
-Filename: debs//tweaks/com.nguyenhieumb.bke.deb
-Size: 4608
-MD5sum: 065b639d7f37d62e2d15056020b072cb
-Section: Tweaks
-Version: 1.0
