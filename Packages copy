@@ -852,3 +852,18 @@ Size: 5772
 MD5sum: 681d085b90b3349f8aee00710694cf75
 Section: Tweaks
 Version: 6.1a
+
+Package: com.nguyenhieumb.otadisabler
+Architecture: iphoneos-arm
+Author: ichitaso
+Depends: firmware (>= 8.4.1), system-cmds, mobilesubstrate
+Depiction: http://ichitaso.com/apt/depiction/otadisabler.html
+Description: Ngắt chế độ tự động update của Iphone
+Installed-Size: 88
+Maintainer: ichitaso
+Name: OTADisabler
+Filename: debs//tweaks/com.nguyenhieumb.otadisabler.deb
+Size: 12342
+MD5sum: 82130a2fe5f7bc6bce0fe113834380f6
+Section: System
+Version: 0.1-1
