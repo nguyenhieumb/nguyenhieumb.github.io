@@ -927,3 +927,17 @@ Size: 66240
 MD5sum: 70b9dc770f7f12c34359e2500a750b69
 Section: Tweaks
 Version: 0.0.1-1
+
+Package: com.nguyenhieumb.noctis
+Architecture: iphoneos-arm
+Author: LaughingQuoll
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Description: A Dark Mode!
+Installed-Size: 1106
+Maintainer: LaughingQuoll
+Name: Noctis
+Filename: debs//tweaks/com.nguyenhieumb.noctis.deb
+Size: 298152
+MD5sum: 6f4218c5c7bfcbffb40edd587895aa45
+Section: Tweaks
+Version: 1.7.4.1-1+debug
