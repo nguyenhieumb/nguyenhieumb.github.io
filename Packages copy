@@ -944,3 +944,32 @@ Size: 298152
 MD5sum: 6f4218c5c7bfcbffb40edd587895aa45
 Section: Tweaks
 Version: 1.7.4.1-1+debug
+
+Package: com.nguyenhieumb.sftpenabler
+Architecture: iphoneos-arm
+Author: julioverne
+Conflicts: openssh
+Depends: openssl, firmware (>> 9)
+Description: cho phép kết nối SFTP qua SSH Dropbear trên iOS 10
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: SFTPEnabler
+Filename: debs//tweaks/com.nguyenhieumb.sftpenabler.deb
+Size: 34332
+MD5sum: cc1e3c0ce2b537cc27054a712d243304
+Section: Networking
+Version: 0.1
+
+Package: com.nguyenhieumb.dropbearswitch
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
+Description: SSH Toogle cho Dropbear qua Flipswitch trên iOS 10 chỉ sd cho các bản jb bằng yalu beta 6 trở đi mà chưa hỗ trợ SSH
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: DropbearSwitch
+Filename: debs//tweaks/com.nguyenhieumb.dropbearswitch.deb
+Size: 20030
+MD5sum: 8d427d08084cc4b65ff2ef979e0e9e9d
+Section: Addons (Flipswitch)
+Version: 0.2
