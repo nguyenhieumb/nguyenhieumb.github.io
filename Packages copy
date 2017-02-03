@@ -973,3 +973,16 @@ Size: 20030
 MD5sum: 8d427d08084cc4b65ff2ef979e0e9e9d
 Section: Addons (Flipswitch)
 Version: 0.2
+
+Package: com.nguyenhieumb.otablocker
+Architecture: iphoneos-arm
+Author: julioverne
+Description: Chặn cập nhật OTA trên các máy đã JB
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: OTABlocker
+Filename: debs//tweaks/com.nguyenhieumb.otablocker.deb
+Size: 5276
+MD5sum: 5f8eda4b91fb1c8d812ab2dc21a0c685
+Section: Utilities
+Version: 0.1
