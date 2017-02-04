@@ -753,7 +753,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecordDp
 Installed-Size: 271
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CCRecord
-Filename: debs//tweaks/com.nguyenhieumb.ccrecord
+Filename: debs//tweaks/com.nguyenhieumb.ccrecord.deb
 Size: 17786
 MD5sum: cb7682a3f9b06cb88bb77696d4363119
 Priority: optional
