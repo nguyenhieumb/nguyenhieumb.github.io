@@ -1003,7 +1003,7 @@ Author: lululombard <contact@lululombard.fr>
 Description: App Kiểm tra thời gian còn lại của app yalu
 Maintainer: lululombard <contact@lululombard.fr>
 Name: CertRenameTime
-Filename: debs//tweaks/com.nguyenhieummb.certremaintime.deb
+Filename: debs//tweaks/com.nguyenhieumb.certremaintime.deb
 Size: 567554
 MD5sum: 957e9c74658ac0cb692475cbe9a481e2
 Section: Utilities
