@@ -382,20 +382,20 @@ Architecture: iphoneos-arm
 Author: Rene Tejeda <renet.tejeda@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
-Description: Use video as a background ringtone!
+Description: Video Ringtone cho IOS 9 - 10
 dev: renettejeda
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
 Icon: file:///Library/PreferenceBundles/liveRingingPrefs.bundle/liveRingingPrefs@2x.png
-Installed-Size: 3312
+Installed-Size: 425
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: LiveRinging
-Filename: debs//tweaks/com.nguyenhieumb.liveringing.deb
-Size: 1080458
-MD5sum: 88f4a39509229013732524b1d5258ae1
+Filename: debs//themes/com.nguyenhieumb.liveringing.deb
+Size: 113744
+MD5sum: 9b459232c914660cbc34ff2bdf787e71
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: cydia::commercial, purpose::extension, compatible::ios9
-Version: 1.0.4
+Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
+Version: 1.0.6
 
 Package: com.nguyenhieumb.mediadownload
 Architecture: iphoneos-arm
@@ -996,15 +996,3 @@ MD5sum: f38f4f817c09fb6e08392537786f601c
 Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb, com.julioverne.cracktool
 Section: Tweaks
 Version: 3.9.4~beta2
-
-Package: com.nguyenhieummb.certremaintime
-Architecture: iphoneos-arm
-Author: lululombard <contact@lululombard.fr>
-Description: App Kiểm tra thời gian còn lại của app yalu
-Maintainer: lululombard <contact@lululombard.fr>
-Name: CertRenameTime
-Filename: debs//tweaks/com.nguyenhieumb.certremaintime.deb
-Size: 567554
-MD5sum: 957e9c74658ac0cb692475cbe9a481e2
-Section: Utilities
-Version: 0.0.1
