@@ -391,7 +391,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: LiveRinging
 Filename: debs//themes/com.nguyenhieumb.liveringing.deb
 Size: 113744
-MD5sum: 9b459232c914660cbc34ff2bdf787e71
+MD5sum: d2db4ddd3ac7eb952ec3b651f348dfcb
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
