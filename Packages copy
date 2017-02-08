@@ -389,7 +389,7 @@ Icon: file:///Library/PreferenceBundles/liveRingingPrefs.bundle/liveRingingPrefs
 Installed-Size: 425
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: LiveRinging
-Filename: debs//themes/com.nguyenhieumb.liveringing.deb
+Filename: debs//tweaks/com.nguyenhieumb.liveringing.deb
 Size: 113744
 MD5sum: d2db4ddd3ac7eb952ec3b651f348dfcb
 Section: Tweaks
