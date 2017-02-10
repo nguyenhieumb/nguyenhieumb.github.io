@@ -955,15 +955,15 @@ Package: com.nguyenhieumb.dropbearswitch
 Architecture: iphoneos-arm
 Author: julioverne
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
-Description: SSH Toogle cho Dropbear qua Flipswitch trên iOS 10 chỉ sd cho các bản jb bằng yalu beta 6 trở đi mà chưa hỗ trợ SSH
+Description: SSH Toogle cho Flipswitch trên iOS 10
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: DropbearSwitch
 Filename: debs//tweaks/com.nguyenhieumb.dropbearswitch.deb
-Size: 20030
-MD5sum: 8d427d08084cc4b65ff2ef979e0e9e9d
+Size: 22482
+MD5sum: fe45cd9f9ab8fd775a21e93ae0284f93
 Section: Addons (Flipswitch)
-Version: 0.2
+Version: 0.3
 
 Package: com.nguyenhieumb.otablocker
 Architecture: iphoneos-arm
