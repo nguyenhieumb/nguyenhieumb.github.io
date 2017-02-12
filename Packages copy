@@ -1051,3 +1051,19 @@ Section: Utilities
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::uikit, compatible::ios10
 Version: 2.0.2
+
+Package: com.nguyenhieumb.motuumls
+Architecture: iphoneos-arm
+Author: CreatureSurvive <dbuehre@me.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Description: Căn chỉnh lockscreen với nhiều tiện ích!!!
+Installed-Size: 552
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Name: motuumLS
+Filename: debs//tweaks/com.nguyenhieumb.motuumls.deb
+Size: 94426
+MD5sum: 75645935d7a87f1bf168854c2ca3dfe8
+Pre-Depends: firmware (>= 10.0)
+Section: Tweaks
+Version: 0.1.5
