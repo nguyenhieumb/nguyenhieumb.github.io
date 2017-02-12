@@ -1044,7 +1044,7 @@ Icon: file:///Applications/CertRemainTime.app/Icon.png
 Installed-Size: 860
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CertRemainTime
-Filename: debs//themes/com.nguyenhieumb.certremaintime.deb
+Filename: debs//tweaks/com.nguyenhieumb.certremaintime.deb
 Size: 547708
 MD5sum: 17bf485c19aa9dda673d12ed93772320
 Section: Utilities
