@@ -1114,7 +1114,7 @@ Depiction: http://repo.xarold.com/depiction.php?id=dateinstatusbar
 Description: Thêm ngày vào thanh status bar
 Installed-Size: 136
 Name: Date In Statusbar
-Filename: debs//tweaks/com.nguyenhieumb.recentcallsplus.deb
+Filename: debs//tweaks/com.nguyenhieumb.dateinstatusbar.deb
 Size: 5002
 MD5sum: feee3a0895f7ad57fbd214b4c2ef5287
 Section: Tweaks
