@@ -1058,12 +1058,30 @@ Author: CreatureSurvive <dbuehre@me.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
 Description: Căn chỉnh lockscreen với nhiều tiện ích!!!
-Installed-Size: 552
+Installed-Size: 556
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Name: motuumLS
 Filename: debs//tweaks/com.nguyenhieumb.motuumls.deb
-Size: 94426
-MD5sum: 75645935d7a87f1bf168854c2ca3dfe8
+Size: 95492
+MD5sum: 4ac86bf1fc21b541afd5ff197de4c28f
 Pre-Depends: firmware (>= 10.0)
 Section: Tweaks
-Version: 0.1.5
+Version: 0.1.9
+
+Package: com.nguyenhieumb.dropbearssh
+Architecture: iphoneos-arm
+Author: ichitaso
+Conflicts: openssh, com.ichitaso.sshflipswitch, com.jamied360.switch.ssh, org.coolstar.scp-sftp-dropbear, com.julioverne.dropbearswith, com.brunonfl.wifisshfordropbear
+Depends: firmware (>= 10.0), com.a3tweaks.flipswitch, openssl
+Depiction: http://cydia.ichitaso.com/depiction/dropbearssh.html
+Description: DropbearSSH for Yalu Jailbreak
+dev: ichitaso
+Homepage: http://ichitaso.com
+Installed-Size: 904
+Maintainer: ichitaso
+Name: DropbearSSH
+Filename: debs//tweaks/com.nguyenhieumb.dropbearssh.deb
+Size: 261528
+MD5sum: 8e06d132b85d565aa691a1e1a957ac12
+Section: Networking
+Version: 1.0.1
