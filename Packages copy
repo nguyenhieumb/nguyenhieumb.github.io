@@ -1105,3 +1105,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios10
 Version: 1.0
+
+Package: com.nguyenhieumb.dateinstatusbar
+Architecture: iphoneos-arm
+Author: Redpandadev
+Depends: mobilesubstrate, firmware (>= 8.0)
+Depiction: http://repo.xarold.com/depiction.php?id=dateinstatusbar
+Description: Thêm ngày vào thanh status bar
+Installed-Size: 136
+Name: Date In Statusbar
+Filename: debs//tweaks/com.nguyenhieumb.recentcallsplus.deb
+Size: 5002
+MD5sum: feee3a0895f7ad57fbd214b4c2ef5287
+Section: Tweaks
+Version: 0.9.1-2
