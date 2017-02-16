@@ -1119,3 +1119,24 @@ Size: 5002
 MD5sum: feee3a0895f7ad57fbd214b4c2ef5287
 Section: Tweaks
 Version: 0.9.1-2
+
+Package: com.nguyenhieumb.senddelay
+Architecture: iphoneos-arm
+Author: GSquared <gsquaredsolutions@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=senddelayDp
+Description: ứng dụng hỗ trợ gửi tin nhắn với độ trễ (cho phép hủy tin nhắn trong trường hợp gửi nhầm)
+dev: gsquared
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=senddelayDp
+Icon: file:///Library/PreferenceBundles/SendDelay.bundle/SendDelay@2x.png
+Installed-Size: 348
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SendDelay
+Filename: debs//tweaks/com.nguyenhieumb.senddelay.deb
+Size: 38372
+MD5sum: e70ab895c7d3058227cbc17896638b2b
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.4-7
