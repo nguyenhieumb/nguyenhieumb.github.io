@@ -492,17 +492,19 @@ Version: 3.9.2~beta4-1
 
 Package: com.nguyenhieumb.cydown
 Architecture: iphoneos-arm
-Author: julioverne
+Author: julioverne <julioverne@me.com>
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Depiction: Cài đặt các ứng dụng trả phí trên cydia!!!
-Description: Cài đặt các ứng dụng trả phí trên cydia!!!
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Description: Hỗ trợ download phần mềm bản quyền từ cydia
+Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Maintainer: Julio
 Name: CyDown
 Filename: debs//tweaks/com.nguyenhieumb.cydown.deb
-Size: 1752734
-MD5sum: 96d3a3ac2989e125db2b2dd00b5c1059
+Size: 1797662
+MD5sum: 4fb6610d450326ee994462628dc17156
 Section: Tweaks
-Version: 6.5.7
+Version: 6.5.9
 
 Package: com.nguyenhieumb.ccsettings.ios8
 Architecture: iphoneos-arm
