@@ -1156,3 +1156,17 @@ Size: 371240
 MD5sum: 138f7b63cf8abaf72aa0cace418338fb
 Section: Utilities
 Version: 2.3~beta7
+
+Package: com.nguyenhieumb.filza
+Architecture: iphoneos-arm
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Description: Phần mềm quản lý iPhone, iPad, iPod Touch. cho iOS 7+, cài xong các bạn vào phần bản quyền để kích hoạt!!!
+Installed-Size: 31884
+Maintainer: TIGI Software
+Name: Filza File Manager
+Filename: debs//tweaks/com.nguyenhieumb.filza.deb
+Size: 22350106
+MD5sum: 01a0cd38b97a4d2efa459caf25f450a3
+Section: Utilities
+Version: 3.4.0-2
