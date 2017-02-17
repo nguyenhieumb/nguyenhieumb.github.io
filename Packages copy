@@ -1142,3 +1142,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
 Version: 1.4-7
+
+Package: com.nguyenhieumb.cracktool2
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Description: Công cụ crack các ứng dụng!!!
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: CrackTool2
+Filename: debs//tweaks/com.nguyenhieumb.cracktool2.deb
+Size: 371240
+MD5sum: 138f7b63cf8abaf72aa0cace418338fb
+Section: Utilities
+Version: 2.3~beta7
