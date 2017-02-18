@@ -401,17 +401,17 @@ Package: com.nguyenhieumb.mediadownload
 Architecture: iphoneos-arm
 Author: mobileapps <mobileapps2014@yandex.com>
 Depiction: http://modmyi.com/info/mediadownloader.d.php
-Description: Music and Video Downloader, all major tube sites supported!
+Description: Ứng dụng hỗ trợ download mạnh mẽ
 Homepage: http://modmyi.com/info/mediadownloader.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Name: Media Downloader
-Filename: debs//tweaks/com.nguyenhieumb.mediadownload.deb
-Size: 7839342
-MD5sum: 362a1186f5afff36e5f7fb9b2ad26618
+Filename: debs//tweaks/com.nguyenhieumb.mediadownload
+Size: 9870208
+MD5sum: 5ad4f76032ae18697a4882510ba208ea
 Priority: extra
 Section: Utilities
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-Version: 2.6
+Version: 2.8
 
 Package: com.nguyenhieumb.mterminal
 Architecture: iphoneos-arm
