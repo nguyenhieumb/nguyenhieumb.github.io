@@ -1183,6 +1183,6 @@ Maintainer: Julio
 Name: MImport
 Filename: debs//tweaks/com.nguyenhieumb.mimport.deb
 Size: 417914
-MD5sum: 01df22bba8bd2371aa80d4e3bd4c399b
+MD5sum: f9c10cb1e72026b19bd25e89fc1b0553
 Section: Tweaks
 Version: 0.0~beta16
