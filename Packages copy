@@ -1186,3 +1186,21 @@ Size: 417852
 MD5sum: 6c65d81f19088dc773d10fe2f4f5dbf0
 Section: Tweaks
 Version: 0.0~beta16
+
+Package: com.nguyenhieumb.unlimtones
+Architecture: iphoneos-arm
+Author: UnlimApps <UnlimApps@yahoo.com>
+Conflicts: com.i4iphones.unlimtones43, com.i4iphones.mytones, com.sull.unlimtones, com.hackyouriphone.unlimtones3
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlimtonesData
+Description: Phần mềm download/ tự cắt nhạc chuông trên IOS
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlimtonesData
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: UnlimTones
+Filename: debs//tweaks/com.nguyenhieumb.unlimtones.deb
+Size: 10571938
+MD5sum: 108a8bac7306e3038dda641b9240f4b2
+Pre-Depends: firmware (>= 5.0), com.unlimapps.toneenabler | firmware (<< 7.0)
+Replaces: com.i4iphones.unlimtones43, com.i4iphones.mytones, com.sull.unlimtones, com.hackyouriphone.unlimtones3
+Section: Multimedia
+Version: 4.8.3
