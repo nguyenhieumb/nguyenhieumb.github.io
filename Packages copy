@@ -405,7 +405,7 @@ Description: Ứng dụng hỗ trợ download mạnh mẽ
 Homepage: http://modmyi.com/info/mediadownloader.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Name: Media Downloader
-Filename: debs//tweaks/com.nguyenhieumb.mediadownload
+Filename: debs//tweaks/com.nguyenhieumb.mediadownload.deb
 Size: 9870208
 MD5sum: 5ad4f76032ae18697a4882510ba208ea
 Priority: extra
