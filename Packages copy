@@ -1173,14 +1173,16 @@ Version: 3.4.0-2
 
 Package: com.nguyenhieumb.mimport
 Architecture: iphoneos-arm
-Author: julioverne
+Author: julioverne <julioverne@me.com>
 Depends: mobilesubstrate, firmware (>= 6.0)
-Depiction: http://repo.xarold.com/depiction.php?id=mimport
-Description: Cho phép nhập nhạc, video vào trong ipod của Iphone
+Depiction: http://julio.xarold.com/files-deb/mimport.html
+Description: Cho phép thêm nhạc phim vào ipod 
+Homepage: http://twitter.com/ijulioverne
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Maintainer: Julio
 Name: MImport
-Filename: debs//tweaks/com.nguyenhieumb.filza.deb
-Size: 418424
-MD5sum: 4ea584bd00825faaa4039e8b828ea7d2
+Filename: debs//tweaks/com.nguyenhieumb.mimport.deb
+Size: 417914
+MD5sum: 01df22bba8bd2371aa80d4e3bd4c399b
 Section: Tweaks
 Version: 0.0~beta16
