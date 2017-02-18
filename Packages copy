@@ -406,8 +406,8 @@ Homepage: http://modmyi.com/info/mediadownloader.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Name: Media Downloader
 Filename: debs//tweaks/com.nguyenhieumb.mediadownload.deb
-Size: 9870208
-MD5sum: 5ad4f76032ae18697a4882510ba208ea
+Size: 9870206
+MD5sum: 58a3b6505cf8945a9bca399bd15d64b0
 Priority: extra
 Section: Utilities
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
