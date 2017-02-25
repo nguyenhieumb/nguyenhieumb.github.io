@@ -1226,3 +1226,18 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Version: 1.4r-19
+
+Package: com.nguyenhieumb.filza64bit
+Architecture: iphoneos-arm
+Author: TIGI Software
+Conflicts: com.tigisoftware.filza
+Depends: zip, unzip, gzip, unrar, p7zip
+Description: Phần mềm quản lý iPhone, iPad, iPod Touch. cho iOS 7+, cài xong các bạn vào phần bản quyền để kích hoạt!!! Phiên bản này chỉ hỗ trợ các máy 64 bits
+Installed-Size: 21088
+Maintainer: TIGI Software
+Name: Filza File Manager 64-bit
+Filename: debs//tweaks/com.nguyenhieumb.filza64bit.deb
+Size: 12824332
+MD5sum: 0ba3b1e76e85e2e233256d8bdcb189c9
+Section: Utilities
+Version: 3.4.0-25
