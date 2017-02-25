@@ -604,8 +604,8 @@ Installed-Size: 2092
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Tage
 Filename: debs//tweaks/com.nguyenhieumb.tage.deb
-Size: 622006
-MD5sum: 705f10815902aa5b0ba10e31bd9c1f5f
+Size: 622066
+MD5sum: c479c6eb4e061a641675dbd2f76d4515
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
