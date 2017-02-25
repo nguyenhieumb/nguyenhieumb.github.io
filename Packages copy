@@ -1237,7 +1237,7 @@ Installed-Size: 21088
 Maintainer: TIGI Software
 Name: Filza File Manager 64-bit
 Filename: debs//tweaks/com.nguyenhieumb.filza64bit.deb
-Size: 12824332
-MD5sum: 0ba3b1e76e85e2e233256d8bdcb189c9
+Size: 12824322
+MD5sum: 28b39c94a468908aab9903d30a459f31
 Section: Utilities
 Version: 3.4.0-25
