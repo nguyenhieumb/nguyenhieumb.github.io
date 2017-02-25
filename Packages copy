@@ -1241,3 +1241,23 @@ Size: 12824322
 MD5sum: 28b39c94a468908aab9903d30a459f31
 Section: Utilities
 Version: 3.4.0-25
+
+Package: com.nguyenhieumb.swipeselection
+Architecture: iphoneos-arm
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Description: Vuốt trên bàn phím để di chuyển con trỏ và select text
+dev: freerunnering
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Installed-Size: 132
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Name: SwipeSelection
+Filename: debs//tweaks/com.nguyenhieumb.filza64bit.deb
+Size: 15382
+MD5sum: 627c35ea9e7d91bac7fb08530847c67a
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.5.2-1
