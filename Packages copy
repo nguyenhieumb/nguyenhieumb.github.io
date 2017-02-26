@@ -982,21 +982,21 @@ Version: 0.1
 Package: com.nguyenhieumb.quickdo
 Architecture: iphoneos-arm
 Author: Ma Jun <majun3@gmail.com>
-Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb, com.julioverne.cracktool
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
 Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
-Depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4~beta2
-Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
-Homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4~beta2
+Depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Description: Quản lý đa nhiệm tuyệt vời trên IOS 
+Homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
 Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
-Installed-Size: 6504
+Installed-Size: 6520
 Maintainer: Clezz.com <majun3@gmail.com>
 Name: QuickDo
 Filename: debs//tweaks/com.nguyenhieumb.quickdo.deb
-Size: 1727486
-MD5sum: f38f4f817c09fb6e08392537786f601c
-Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb, com.julioverne.cracktool
+Size: 1744352
+MD5sum: 70d0d760195f8f2785bd4a7f11c8556c
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
 Section: Tweaks
-Version: 3.9.4~beta2
+Version: 3.9.4
 
 Package: com.nguyenhieumb.callconnect
 Architecture: iphoneos-arm
