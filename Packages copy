@@ -544,18 +544,22 @@ Version: 2.07-3
 
 Package: com.nguyenhieumb.icleanerpro
 Architecture: iphoneos-arm
-Author: Ivano Bilenchi
+Author: Ivano Bilenchi <support@ib-soft.net>
 Conflicts: org.altervista.exilecom.icleaner
 Depends: firmware (>= 4.0)
-Description: Ứng dụng dọn dẹp hệ thống
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Description: The first real iOS system cleaner & optimizer
+Homepage: http://ib-soft.net/icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro
 Filename: debs//tweaks/com.nguyenhieumb.icleanerpro.deb
-Size: 3063732
-MD5sum: 2eb83628458e994a6fd2c35cc744d3b9
+Size: 5120966
+MD5sum: cf8d245e7ee2cc3ae085df0da7fb0f64
 Pre-Depends: apt, findutils, shell-cmds
+Replaces: org.altervista.exilecom.icleaner
 Section: Utilities
-Version: 7.5.6
+Version: 7.6.1~beta2
 
 Package: com.nguyenhieumb.virtualhome8n9
 Architecture: iphoneos-arm
@@ -1374,3 +1378,36 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Version: 0.3-7
+
+Package: com.nguyenhieumb.prismboard
+Architecture: iphoneos-arm
+Author: Orangebananaspy <rsanghav12@yahoo.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=prismboardDp
+Description: đổi màu bàn phím dựa trên icon của ứng dụng
+dev: orangebananaspy
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=prismboardDp
+Icon: file:///Library/PreferenceBundles/PrismBoardRevisited.bundle/PrismBoardRevisited@2x.png
+Installed-Size: 4412
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: PrismBoard
+Filename: debs//tweaks/com.nguyenhieumb.prismboard.deb
+Size: 1438866
+MD5sum: f6e8abcf74d6fa5f9289b088f254b73b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 2.0
+
+Package: com.nguyenhieumb.anilaunch
+Architecture: iphoneos-arm
+Author: BYA Repository
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.4.1)
+Depiction: Tạo hiệu ứng với icon khi chạy ứng dụng
+Description: Tạo hiệu ứng với icon khi chạy ứng dụng
+Name: Anilaunch
+Filename: debs//tweaks/com.nguyenhieumb.anilaunch.deb
+Size: 130222
+MD5sum: 76947f1bc7de7bd642ffd45ff7aa5c11
+Section: Tweaks
+Version: 1.1.5
