@@ -1029,16 +1029,16 @@ Description: Ứng dụng kiểm tra thời gian còn lại của tool JB trư�
 dev: lululombard
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
 Icon: file:///Applications/CertRemainTime.app/Icon.png
-Installed-Size: 860
+Installed-Size: 862
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CertRemainTime
 Filename: debs//themes/com.nguyenhieumb.certremaintime.deb
-Size: 549070
-MD5sum: ae183e13d148d8807046495708576943
+Size: 549504
+MD5sum: 7d68c35f886537d6567f1ef697217c06
 Section: Utilities
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::uikit, compatible::ios9, compatible::ios10
-Version: 2.1.1
+Version: 2.2.1
 
 Package: com.nguyenhieumb.motuumls
 Architecture: iphoneos-arm
@@ -1354,3 +1354,23 @@ Size: 148064
 MD5sum: bbdfe994a6dabd114b3f44de53b57886
 Section: Tweaks
 Version: 1.1
+
+Package: com.nguyenhieumb.randomiconsflip
+Architecture: iphoneos-arm
+Author: Elias Limneos <iphone@limneos.net>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=randomflipData
+Description: homescreen icons flipping over at random
+dev: limneos
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=randomflipData
+Installed-Size: 84
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Random Icon Flip
+Filename: debs//tweaks/com.nguyenhieumb.randomiconsflip.deb
+Size: 10648
+MD5sum: b02d5dbab72098868a8cf4d54abbb9b9
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 0.3-7
