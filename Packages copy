@@ -1045,16 +1045,16 @@ Architecture: iphoneos-arm
 Author: CreatureSurvive <dbuehre@me.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
-Description: Căn chỉnh lockscreen với nhiều tiện ích!!!
-Installed-Size: 556
+Description: Tuỳ biến thanh đồng hồ và thêm biểu tượng pin trên LockScreen
+Installed-Size: 664
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Name: motuumLS
-Filename: debs//tweaks/com.nguyenhieumb.motuumls.deb
-Size: 95492
-MD5sum: 4ac86bf1fc21b541afd5ff197de4c28f
+ilename: debs//tweaks/com.nguyenhieumb.motuumls
+Size: 144948
+MD5sum: c7c8efe9583baab074089970f83569f2
 Pre-Depends: firmware (>= 10.0)
 Section: Tweaks
-Version: 0.1.9
+Version: 2.0.9
 
 Package: com.nguyenhieumb.dropbearssh
 Architecture: iphoneos-arm
