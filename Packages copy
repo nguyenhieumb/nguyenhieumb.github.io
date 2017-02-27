@@ -1049,7 +1049,7 @@ Description: Tuỳ biến thanh đồng hồ và thêm biểu tượng pin trên
 Installed-Size: 664
 Maintainer: CreatureSurvive <dbuehre@me.com>
 Name: motuumLS
-ilename: debs//tweaks/com.nguyenhieumb.motuumls
+ilename: debs//tweaks/com.nguyenhieumb.motuumls.deb
 Size: 144948
 MD5sum: c7c8efe9583baab074089970f83569f2
 Pre-Depends: firmware (>= 10.0)
