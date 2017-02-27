@@ -1398,16 +1398,3 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 2.0
-
-Package: com.nguyenhieumb.anilaunch
-Architecture: iphoneos-arm
-Author: BYA Repository
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.4.1)
-Depiction: Tạo hiệu ứng với icon khi chạy ứng dụng
-Description: Tạo hiệu ứng với icon khi chạy ứng dụng
-Name: Anilaunch
-Filename: debs//tweaks/com.nguyenhieumb.anilaunch.deb
-Size: 130222
-MD5sum: 76947f1bc7de7bd642ffd45ff7aa5c11
-Section: Tweaks
-Version: 1.1.5
