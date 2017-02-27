@@ -1335,8 +1335,8 @@ Description: Chỉnh màu sắc các phần của statusbar!
 Icon: file:///Library/PreferenceBundles/AerialSettings.bundle/AerialSettings@2x.png
 Name: Aerial
 Filename: debs//tweaks/com.nguyenhieumb.aerial.deb
-Size: 884
-MD5sum: 7f92845d05439169a19ba2a48cb4876b
+Size: 876668
+MD5sum: 71d350b32c458e19d942b588d466cb41
 Section: Messaging
 Version: 1.1
 
