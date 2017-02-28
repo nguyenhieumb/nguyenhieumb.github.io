@@ -1427,3 +1427,18 @@ MD5sum: 3813fcd6940bf7dcf7fd098e85d68904
 Provides: com.nguyenhieumb.lockglyphx
 Section: Tweaks
 Version: 1.0~b3
+
+Package: com.nguyenhieumb.priorityhub
+Architecture: iphoneos-arm
+Author: Thomas Finch <tomf64@gmail.com>
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Description: Ứng dụng hỗ trợ sắp xếp gọn các thông báo của bạn!
+Homepage: http://thomasfinch.me
+Installed-Size: 452
+Maintainer: Thomas Finch <tomf64@gmail.com>
+Name: Priority Hub 2 BETA
+Filename: debs//tweaks/com.nguyenhieumb.priorityhub.deb
+Size: 88202
+MD5sum: 38e6938042244c26fe183df2f102835e
+Section: Tweaks
+Version: 2.0-44+debug
