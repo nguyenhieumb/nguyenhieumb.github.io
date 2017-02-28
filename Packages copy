@@ -1398,3 +1398,16 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 2.0
+
+Package: com.nguyenhieumb.audiorecorder2ios8910
+Architecture: iphoneos-arm
+Author: Elias Limneos
+Conflicts: net.limneos.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Description: Ghi Âm cuộc gọi trên IOs 8 - 9 - 10
+Name: AudioRecorder 2 (iOS 8,9,10)
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8910.deb
+Size: 3072308
+MD5sum: 67d7bdf414ecdf6e58cdd4a0a304381a
+Section: Tweaks
+Version: 1.4-1CR
