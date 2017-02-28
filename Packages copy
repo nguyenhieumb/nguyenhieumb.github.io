@@ -1411,3 +1411,19 @@ Size: 3072308
 MD5sum: 67d7bdf414ecdf6e58cdd4a0a304381a
 Section: Tweaks
 Version: 1.4-1CR
+
+Package: com.nguyenhieumb.lockglyphx
+Architecture: iphoneos-arm
+Author: evilgoldfish
+Conflicts: com.evilgoldfish.lockglyph
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Description: LockGlyph cho iOS 10
+Installed-Size: 588
+Maintainer: evilgoldfish
+Name: LockGlyphX Beta (iOS 10)
+Filename: debs//tweaks/com.nguyenhieumb.lockglyphx.deb
+Size: 116498
+MD5sum: 3813fcd6940bf7dcf7fd098e85d68904
+Provides: com.nguyenhieumb.lockglyphx
+Section: Tweaks
+Version: 1.0~b3
