@@ -1461,12 +1461,12 @@ Package: com.nguyenhieumb.cyextenderinstaller
 Architecture: iphoneos-arm
 Author: Dillan <dillan@enduniverse.com>
 Depends: firmware (>= 5), apt, com.nguyenhieumb.mterminal, com.nguyenhieumb.extendlife
-Depiction: cydia extender installer!!
+Depiction: Hỗ trợ tự cài yalu , jb trên ios 10 ko cần máy tính
 Description: Installs Cydia Extender<br><b>DISCLAIMER: THIS IS UNOFFICIAL SOFTWARE NOT AFFILIATED WITH SaurikIT!</b><br/>This is a console line tool.<br/>In order to use this, you need to use MTerminal or SSH or equivalent.<br/>In the command line you would type:<br/>cyextender *teamid*<br/><hr/><b>How to use this app:</b>First of all, Reinstall button doesn't work.<br/>When you first open the app, you may get an error, this error is because you aren't connected to the VPN and you can fix it by simply dismissing, and you should be automatically connected to the VPN.<br/>To use this you need to open an ipa file in the app (check screenshots), and then follow instructions<br/><hr/><b>How to find your team id (credit to /u/wafuu):</b><br/>Navigate to /var/containers/Bundle/Application/[the UUID with your yalu app in it]/yalu102.app in Filza. Open embedded.mobileprovision with the built-in text editor. Your Team ID is the 10-digit string under the ApplicationIdentifierPrefix key.<br/>
 Maintainer: Dillan <dillan@enduniverse.com>
 Name: Cydia Extender Installer
 Filename: debs//tweaks/com.nguyenhieumb.cyextenderinstaller.deb
-Size: 3136
-MD5sum: d48151645f05bfcd4f1488f79a218453
+Size: 3166
+MD5sum: 4a99128dcc25b9567b4ba66011caee5f
 Section: System
 Version: 2.4
