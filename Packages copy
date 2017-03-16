@@ -1451,7 +1451,7 @@ Description: Cydia Extender Install IPA Files Imported Inside App, Spoof TeamID,
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Extendlife
-Filename: debs//tweaks/com.nguyenhieumb.extendlife.deb
+Filename: debs//tweaks/com.nguyenhieu.extendlife.deb
 Size: 68402
 MD5sum: ffc0c75e85fcaec7308c1cfcfc214c21
 Section: Tweaks
