@@ -1452,8 +1452,8 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Extendlife
 Filename: debs//tweaks/com.nguyenhieumb.extendlife.deb
-Size: 68524
-MD5sum: f34a6345344d8d0dc4c336c5080373f6
+Size: 68402
+MD5sum: ffc0c75e85fcaec7308c1cfcfc214c21
 Section: Tweaks
 Version: 0.4
 
@@ -1466,7 +1466,7 @@ Description: Installs Cydia Extender<br><b>DISCLAIMER: THIS IS UNOFFICIAL SOFTWA
 Maintainer: Dillan <dillan@enduniverse.com>
 Name: Cydia Extender Installer
 Filename: debs//tweaks/com.nguyenhieumb.cyextenderinstaller.deb
-Size: 3166
-MD5sum: 4a99128dcc25b9567b4ba66011caee5f
+Size: 3098
+MD5sum: a468924f1391c6e9ca27bd25fc6b2727
 Section: System
 Version: 2.4
