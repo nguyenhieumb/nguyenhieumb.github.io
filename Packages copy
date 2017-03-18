@@ -1470,3 +1470,33 @@ Size: 3098
 MD5sum: a468924f1391c6e9ca27bd25fc6b2727
 Section: System
 Version: 2.4
+
+Package: com.nguyenhieumb.minicc
+Architecture: iphoneos-arm
+Author: Antique
+Depends: mobilesubstrate
+Depiction: Thu nhỏ control center cho IOS 10
+Description: Thu nhỏ control center cho IOS 10
+Installed-Size: 200
+Maintainer: Antique
+Name: MiniCC
+Filename: debs//tweaks/com.nguyenhieumb.minicc.deb
+Size: 7112
+MD5sum:1039697ab81e6924059b29ad23468f18
+Section: Tweaks
+Version: 1.78-1+debug
+
+Package: com.nguyenhieumb.mininc
+Architecture: iphoneos-arm
+Author: Antique
+Depends: mobilesubstrate
+Depiction: thu nhỏ thông tin notification trên notification center cho IOS 10
+Description: thu nhỏ thông tin notification trên notification center cho IOS 10
+Installed-Size: 200
+Maintainer: Antique
+Name: MiniNC
+Filename: debs//tweaks/com.nguyenhieumb.mininc.deb
+Size: 5506
+MD5sum:8270a88ebc1e600677e3562d44f74363
+Section: Tweaks
+Version: 1.87
