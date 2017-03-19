@@ -1514,3 +1514,17 @@ Size: 4574
 MD5sum:d6f20c438629416f2c47d747ad082a3f
 Section: Tweaks
 Version: 0.0.1-6
+
+Package: com.nguyenhieumb.ext3nder
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: mobilesubstrate
+Description: Cydia Extender Super Modded
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: Ext3nder
+Filename: debs//tweaks/com.nguyenhieumb.ext3nder.deb
+Size: 1852556
+MD5sum:d04736139c5d515a94b13c010cc9a3e2
+Section: Utilities
+Version: 0.9.41_008
