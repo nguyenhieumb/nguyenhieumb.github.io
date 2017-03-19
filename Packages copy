@@ -1528,3 +1528,37 @@ Size: 1852556
 MD5sum:d04736139c5d515a94b13c010cc9a3e2
 Section: Utilities
 Version: 0.9.41_008
+
+Package: com.nguyenhieumb.appsyncunified
+Architecture: iphoneos-arm
+Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Depiction: Appsync cho ios 10
+Description: AppSync cho IOS 10
+Installed-Size: 364
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Name: AppSync Unified
+Filename: debs//tweaks/com.nguyenhieumb.ext3nder.deb
+Size: 1852556
+MD5sum:d04736139c5d515a94b13c010cc9a3e2
+Section: Utilities
+Version: 0.9.41_008
+
+Package: com.nguyenhieumb.appsyncunified
+Architecture: iphoneos-arm
+Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Depiction: Appsync cho ios 10
+Description: AppSync cho IOS 10
+Installed-Size: 364
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Name: AppSync Unified
+Filename: debs//tweaks/com.nguyenhieumb.appsyncunified.deb
+Size: 41976
+MD5sum:1d9ebe41feeb3649b8298dd8a8792ec3
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Section: Tweaks
+Version: 6.0~b1
