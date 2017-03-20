@@ -1501,6 +1501,20 @@ MD5sum:8270a88ebc1e600677e3562d44f74363
 Section: Tweaks
 Version: 1.87
 
+Package: com.nguyenhieumb.cydiarespringfix
+Architecture: iphoneos-arm
+Author: Guillermo Moran
+Depends: mobilesubstrate
+Description: Fix lỗi restartSpringBoard cho cydia trên 7/7+ sử dụng match_portal Yalu beta 3
+Installed-Size: 136
+Maintainer: Guillermo Moran
+Name: CydiaRespringFix
+Filename: debs//tweaks/com.nguyenhieumb.cydiarespringfix.deb
+Size: 4574
+MD5sum:d6f20c438629416f2c47d747ad082a3f
+Section: Tweaks
+Version: 0.0.1-6
+
 Package: com.nguyenhieumb.ext3nder
 Architecture: iphoneos-arm
 Author: julioverne
