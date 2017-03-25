@@ -1142,10 +1142,10 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: CrackTool2
 Filename: debs//tweaks/com.nguyenhieumb.cracktool2.deb
-Size: 371240
-MD5sum: 138f7b63cf8abaf72aa0cace418338fb
+Size: 389800
+MD5sum: 0c5d50ee38aca4cf6c9de50c7a683375
 Section: Utilities
-Version: 2.3~beta7
+Version: 2.3~ beta8
 
 Package: com.nguyenhieumb.filza
 Architecture: iphoneos-arm
