@@ -1524,10 +1524,10 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Ext3nder
 Filename: debs//tweaks/com.nguyenhieumb.ext3nder.deb
-Size: 1855236
-MD5sum:2da4564cb9b45cdcd25dec8f25910113
+Size: 1775622
+MD5sum:3cd244a71a72810e44d57d6a5ffe9a87
 Section: Utilities
-Version: 0.9.41_008c
+Version: 0.9.41_009
 
 Package: com.nguyenhieumb.appsyncunified
 Architecture: iphoneos-arm
