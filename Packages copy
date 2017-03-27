@@ -1546,3 +1546,17 @@ Provides: appsync
 Replaces: us.hackulo.appsync50
 Section: Tweaks
 Version: 6.0~b1
+
+Package: com.nguyenhieumb.anchor
+Architecture: iphoneos-arm
+Author: Brogan Miner
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.chpwn.iconsupport
+Depiction: Sắp đặt vị trí cáo icon trên màn hình tuỳ ý.
+Description: Sắp đặt vị trí cáo icon trên màn hình tuỳ ý.
+Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
+Name: Anchor
+Filename: debs//tweaks/com.nguyenhieumb.anchor.deb
+Size: 132478
+MD5sum:1909e84c26f6fe7e9989dff1ce65ec23
+Section: Tweaks
+Version: 2.0.4
