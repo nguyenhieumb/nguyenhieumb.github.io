@@ -1569,7 +1569,7 @@ Depiction: Đồng hồ tròn kèm Google Launcher
 Description: Đồng hồ tròn kèm Google Launcher
 Maintainer: NHMB <nguyenhieumb@dr.com>
 Name: NHMBClock
-Filename: debs//themes/com.nguyenhieumb.NHMBClock
+Filename: debs//themes/com.nguyenhieumb.NHMBClock.deb
 Size: 951762
 MD5sum:6ad70e2ad594f501de6bf33c59baf0cb
 Section: Addons (iWidgets)
