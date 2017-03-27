@@ -1551,8 +1551,8 @@ Package: com.nguyenhieumb.anchor
 Architecture: iphoneos-arm
 Author: Brogan Miner
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.chpwn.iconsupport
-Depiction: Sắp đặt vị trí cáo icon trên màn hình tuỳ ý.
-Description: Sắp đặt vị trí cáo icon trên màn hình tuỳ ý.
+Depiction: Sắp đặt vị trí các icon trên màn hình tuỳ ý.
+Description: Sắp đặt vị trí các icon trên màn hình tuỳ ý.
 Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
 Name: Anchor
 Filename: debs//tweaks/com.nguyenhieumb.anchor.deb
