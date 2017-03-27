@@ -1560,3 +1560,17 @@ Size: 132478
 MD5sum:ec100e6d48f263265aba0c258a002057
 Section: Tweaks
 Version: 2.0.4
+
+Package: com.nguyenhieumb.NHMBClock
+Architecture: iphoneos-arm
+Author: NHMB <nguyenhieumb@dr.com>
+Depends: com.eldwin.iwidgets
+Depiction: Đồng hồ tròm kèm Google Launcher
+Description: Đồng hồ tròm kèm Google Launcher
+Maintainer: NHMB <nguyenhieumb@dr.com>
+Name: NHMBClock
+Filename: debs//themes/com.nguyenhieumb.NHMBClock.deb
+Size: 951746
+MD5sum:3724afeddf7a1c388478e3b04c96b8f6
+Section: Addons (iWidgets)
+Version: 1.0
