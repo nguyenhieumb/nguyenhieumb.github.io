@@ -1557,6 +1557,6 @@ Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
 Name: Anchor
 Filename: debs//tweaks/com.nguyenhieumb.anchor.deb
 Size: 132478
-MD5sum:1909e84c26f6fe7e9989dff1ce65ec23
+MD5sum:ec100e6d48f263265aba0c258a002057
 Section: Tweaks
 Version: 2.0.4
