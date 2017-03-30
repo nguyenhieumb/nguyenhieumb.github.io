@@ -1582,7 +1582,7 @@ Depends: com.nguyenhieumb.mterminal
 Description: semirestore ios 10 - sau khi cài đặt chạy lệnh semirs trong terminal
 Maintainer: NHMB
 Name: SemiRestore IOS 10
-Filename: debs//themes/com.nguyenhieumb.SemiRestoreIOS10.deb
+Filename: debs//tweaks/com.nguyenhieumb.SemiRestoreIOS10.deb
 Size: 9560
 MD5sum:a712bd5e365742cf398d4645f4dc0e89
 Section: Utilities
