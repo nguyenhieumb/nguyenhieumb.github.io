@@ -554,12 +554,12 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro
 Filename: debs//tweaks/com.nguyenhieumb.icleanerpro.deb
-Size: 5120966
-MD5sum: cf8d245e7ee2cc3ae085df0da7fb0f64
+Size: 5046202
+MD5sum: c6e235f87f5e0f4907d7736427558a4e
 Pre-Depends: apt, findutils, shell-cmds
 Replaces: org.altervista.exilecom.icleaner
 Section: Utilities
-Version: 7.6.1~beta2
+Version: 7.6.1
 
 Package: com.nguyenhieumb.virtualhome8n9
 Architecture: iphoneos-arm
