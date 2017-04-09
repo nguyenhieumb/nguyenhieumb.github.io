@@ -1401,10 +1401,13 @@ Version: 2.0
 
 Package: com.nguyenhieumb.audiorecorder2ios8910
 Architecture: iphoneos-arm
-Author: Elias Limneos
+Author: Elias Limneos <limneoselias@gmail.com>
 Conflicts: net.limneos.callrecorder
 Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: Ghi âm cuộc gọi trên IOS 8 - 9 - 10
 Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10
+Installed-Size: 7748
+Maintainer: Elias Limneos <limneoselias@gmail.com>
 Name: AudioRecorder 2 (iOS 8,9,10)
 Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8910.deb
 Size: 3085920
