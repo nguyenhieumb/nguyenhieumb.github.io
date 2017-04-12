@@ -1604,8 +1604,8 @@ Installed-Size: 1502
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: BioProtect
 Filename: debs//tweaks/com.nguyenhieumb.bioprotect.deb
-Size: 637366
-MD5sum:38a7fcab1e480f9233d48b4e4507e2b6
+Size: 635732
+MD5sum:2f123e33bd5e86852f1ca653bb395f9b
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
