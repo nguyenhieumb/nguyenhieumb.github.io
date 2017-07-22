@@ -1521,16 +1521,16 @@ Version: 0.0.1-6
 Package: com.nguyenhieumb.ext3nder
 Architecture: iphoneos-arm
 Author: julioverne
-Depends: mobilesubstrate
+Depends: mobilesubstrate, coreutils, zip
 Description: Cydia Extender Super Modded
 Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Ext3nder
 Filename: debs//tweaks/com.nguyenhieumb.ext3nder.deb
-Size: 1775622
-MD5sum:3cd244a71a72810e44d57d6a5ffe9a87
+Size: 2043904
+MD5sum:e09ffd44f7c32124e56ed3e687fbaa58
 Section: Utilities
-Version: 0.9.41_009
+Version: 0.9.41_012
 
 Package: com.nguyenhieumb.appsyncunified
 Architecture: iphoneos-arm
