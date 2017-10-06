@@ -1610,3 +1610,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Version: 2.1-295
+
+Package: com.nguyenhieumb.maizepreview
+Architecture: iphoneos-arm
+Author: Creatix
+Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
+Installed-Size: 2588
+Maintainer: Creatix
+Name: Maize (Preview)
+Filename: debs//tweaks/com.nguyenhieumb.maizepreview.deb
+Size: 671610
+MD5sum:34e22afcb9aa5813ea1ab55ec548db9b
+Section: Tweaks
+Tag: compatible::ios10
+Version: 1.2.1
