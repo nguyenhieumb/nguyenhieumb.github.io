@@ -1446,20 +1446,6 @@ MD5sum: 38e6938042244c26fe183df2f102835e
 Section: Tweaks
 Version: 2.0-44+debug
 
-Package: com.nguyenhieumb.extendlife
-Architecture: iphoneos-arm
-Author: julioverne
-Depends: mobilesubstrate
-Description: Cydia Extender Install IPA Files Imported Inside App, Spoof TeamID, Auto Login, Revoke Certificates, Add New Device, Allow OTA Install. Requires Cydia Extender App & AppSync
-Homepage: http://twitter.com/ijulioverne
-Maintainer: Julio
-Name: Extendlife
-Filename: debs//tweaks/com.nguyenhieu.extendlife.deb
-Size: 68402
-MD5sum: ffc0c75e85fcaec7308c1cfcfc214c21
-Section: Tweaks
-Version: 0.4
-
 Package: com.nguyenhieumb.ext3nder-installer
 Architecture: iphoneos-arm
 Author: julioverne
