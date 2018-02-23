@@ -1460,19 +1460,22 @@ MD5sum: ffc0c75e85fcaec7308c1cfcfc214c21
 Section: Tweaks
 Version: 0.4
 
-Package: com.nguyenhieumb.cyextenderinstaller
+Package: com.nguyenhieumb.ext3nder-installer
 Architecture: iphoneos-arm
-Author: Dillan <dillan@enduniverse.com>
-Depends: firmware (>= 5), apt, com.nguyenhieumb.mterminal, com.nguyenhieumb.extendlife
-Depiction: Hỗ trợ tự cài yalu , jb trên ios 10 ko cần máy tính
-Description: Installs Cydia Extender<br><b>DISCLAIMER: THIS IS UNOFFICIAL SOFTWARE NOT AFFILIATED WITH SaurikIT!</b><br/>This is a console line tool.<br/>In order to use this, you need to use MTerminal or SSH or equivalent.<br/>In the command line you would type:<br/>cyextender *teamid*<br/><hr/><b>How to use this app:</b>First of all, Reinstall button doesn't work.<br/>When you first open the app, you may get an error, this error is because you aren't connected to the VPN and you can fix it by simply dismissing, and you should be automatically connected to the VPN.<br/>To use this you need to open an ipa file in the app (check screenshots), and then follow instructions<br/><hr/><b>How to find your team id (credit to /u/wafuu):</b><br/>Navigate to /var/containers/Bundle/Application/[the UUID with your yalu app in it]/yalu102.app in Filza. Open embedded.mobileprovision with the built-in text editor. Your Team ID is the 10-digit string under the ApplicationIdentifierPrefix key.<br/>
-Maintainer: Dillan <dillan@enduniverse.com>
-Name: Cydia Extender Installer
-Filename: debs//tweaks/com.nguyenhieumb.cyextenderinstaller.deb
-Size: 3098
-MD5sum: a468924f1391c6e9ca27bd25fc6b2727
-Section: System
-Version: 2.4
+Author: julioverne
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Description: Cydia Extender Installer With Extra Features
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: Ext3nder Installer
+Filename: debs//tweaks/com.nguyenhieumb.ext3nder-installer.deb
+Size: 172162
+MD5sum: 482c368b0dcc6bf42c61527f81a55932
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Section: Tweaks
+Version: 016
 
 Package: com.nguyenhieumb.minicc
 Architecture: iphoneos-arm
@@ -1615,6 +1618,7 @@ Package: com.nguyenhieumb.maizepreview
 Architecture: iphoneos-arm
 Author: Creatix
 Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
+Description: Mang Control Center của IOS 11 lên IOS 10
 Installed-Size: 2588
 Maintainer: Creatix
 Name: Maize (Preview)
