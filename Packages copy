@@ -1614,3 +1614,24 @@ MD5sum:34e22afcb9aa5813ea1ab55ec548db9b
 Section: Tweaks
 Tag: compatible::ios10
 Version: 1.2.1
+
+Package: com.nguyenhieumb.newterm2
+Name: NewTerm 2
+Depends: firmware (>= 6.0), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, ws.hbang.common (>= 1.11.2)
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal emulator for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Filename: debs//tweaks/com.nguyenhieumb.newterm2.deb
+Size: 626696
+MD5sum:4c82dcd885f8dfacba64a597098be5a0
+Section: Tweaks
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm2/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0~beta3
