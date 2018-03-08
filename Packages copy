@@ -1663,3 +1663,15 @@ MD5sum:14ab4fe2ae8b5c1a43713be8090ee103
 Section: Tweaks
 Depends: mobilesubstrate
 
+Package: com.nguyenhieumb.doubletaplock
+Name: DoubleTapLock
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Description: Bấm 2 lần vào chỗ trống trên màn hình để khoá máy cho IOS11
+Depiction: Bấm 2 lần vào chỗ trống trên màn hình để khoá máy cho IOS11
+Author: Spark
+Filename: debs//tweaks/com.nguyenhieumb.doubletaplock.deb
+Size: 54610
+MD5sum:25a26fa6cd5a42008350971545ccd0be
+Section: Tweaks
+Depends: mobilesubstrate
