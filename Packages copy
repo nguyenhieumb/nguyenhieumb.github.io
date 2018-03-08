@@ -1635,3 +1635,17 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 dev: hbang
 Version: 2.0~beta3
+
+Package: com.nguyenhieumb.audiorecorder2ios8to11
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Version: 1.6-46
+Architecture: iphoneos-arm
+Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Depiction: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Author: Elias Limneos
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8to11.deb
+Size: 2475324
+MD5sum:002d9fca56e9f9e39ba38f94db766042
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
