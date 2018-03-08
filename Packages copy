@@ -1649,3 +1649,17 @@ MD5sum:002d9fca56e9f9e39ba38f94db766042
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Conflicts: net.limneos.callrecorder
+
+Package: com.nguyenhieumb.letmeknow
+Name: LetMeKnow
+Version: 1.0.0-6+debug
+Architecture: iphoneos-arm
+Description:Rung khi kết nối và ngắt cuộc gọi cho IOS11
+Depiction: Rung khi kết nối và ngắt cuộc gọi cho IOS11
+Author: Kiran Patil
+Filename: debs//tweaks/com.nguyenhieumb.letmeknow.deb
+Size: 2444
+MD5sum:14ab4fe2ae8b5c1a43713be8090ee103
+Section: Tweaks
+Depends: mobilesubstrate
+
