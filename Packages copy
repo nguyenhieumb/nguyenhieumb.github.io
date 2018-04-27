@@ -1652,16 +1652,24 @@ Conflicts: net.limneos.callrecorder
 
 Package: com.nguyenhieumb.letmeknow
 Name: LetMeKnow
-Version: 1.0.0-6+debug
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Version: 1.2-1
 Architecture: iphoneos-arm
-Description:Rung khi kết nối và ngắt cuộc gọi cho IOS11
-Depiction: Rung khi kết nối và ngắt cuộc gọi cho IOS11
-Author: Kiran Patil
+Description: Rung khi kết nối và ngắt cuộc gọi cho IOS11
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=letmeknowDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=letmeknowDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kiran Patil <patilkiran08@gmail.com>
 Filename: debs//tweaks/com.nguyenhieumb.letmeknow.deb
-Size: 2444
-MD5sum:14ab4fe2ae8b5c1a43713be8090ee103
+Size: 23962
+MD5sum:f5110a1c6fb26a2358886aa39734e774
 Section: Tweaks
-Depends: mobilesubstrate
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 210
+dev: imkpatil
+Icon: file:///Library/PreferenceBundles/LetMeKnowPrefs.bundle/LetMeKnowPrefs.png
 
 Package: com.nguyenhieumb.doubletaplock
 Name: DoubleTapLock
