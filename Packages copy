@@ -1025,24 +1025,24 @@ Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Version: 1.0.0
 
 Package: com.nguyenhieumb.certremaintime
-Architecture: iphoneos-arm
 Author: lululombard <contact@lululombard.fr>
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
-Description: Ứng dụng kiểm tra thời gian còn lại của tool JB trước khi phải cài lại
-dev: lululombard
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
-Icon: file:///Applications/CertRemainTime.app/Icon.png
-Installed-Size: 862
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CertRemainTime
 Filename: debs//tweaks/com.nguyenhieumb.certremaintime.deb
-Size: 550136
-MD5sum: 9f76858f46846f3a7796f639bd16d357
+Size: 507098
+MD5sum:e6e8ed57ae583413f0be2cffcd591eef
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Section: Utilities
+Installed-Size: 864
+Version: 2.3.4-2
+Architecture: iphoneos-arm
+Description: Ứng dụng kiểm tra thời gian còn lại của tool JB trước khi phải cài lại
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
 Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lululombard
 Tag: purpose::uikit, compatible::ios9, compatible::ios10
-Version: 2.2.4
+Icon: file:///Applications/CertRemainTime.app/Icon.png
 
 Package: com.nguyenhieumb.motuumls
 Architecture: iphoneos-arm
