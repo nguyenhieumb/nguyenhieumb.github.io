@@ -1678,7 +1678,7 @@ Architecture: iphoneos-arm
 Description: Bấm 2 lần vào chỗ trống trên màn hình để khoá máy cho IOS11
 Maintainer: Spark
 Author: Spark
-Filename: debs//tweaks/com.nguyenhieumb.doubletaplock
+Filename: debs//tweaks/com.nguyenhieumb.doubletaplock.deb
 Size: 23686
 MD5sum:77f90144bb0ecfc87d4672691c8d4bda
 Section: Tweaks
