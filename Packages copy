@@ -1457,8 +1457,8 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Ext3nder Installer
 Filename: debs//tweaks/com.nguyenhieumb.ext3nder-installer.deb
-Size: 197608
-MD5sum: 05a0c93d78f0ce0d8eb058bd06de70e4
+Size: 517486
+MD5sum: 7b359f3e8e7b0597f0bf67d89930387b
 Pre-Depends: ldid, unzip, coreutils, zip, sed
 Section: Utilities
 Version: 021a
