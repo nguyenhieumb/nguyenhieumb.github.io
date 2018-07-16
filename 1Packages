@@ -1,0 +1,1692 @@
+Package: com.nguyenhieumb.sptouchios9
+Architecture: iphoneos-arm
+Author: Paolo Smedile <paolosmedile@me.com>
+Conflicts: com.paolosmedile.sptouch
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferencesloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Description: Thêm nút home ảo cho iphone của bạn.
+dev: paolosmedile
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Icon: file:///Library/PreferenceLoader/Preferences/SPTouchIcon@2x.png
+Installed-Size: 192
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SPTouch for iOS 9
+Filename: debs//tweaks/com.nguyenhieumb.sptouchios9.deb
+Size: 50604
+MD5sum: c2c4d8ee85943a1942584cd7ef64951d
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Version: 3.0
+
+Package: com.nguyenhieumb.byeshuttersound
+Architecture: iphoneos-arm
+Author: cole cabral @ca13ra1 <cabralcole@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeshuttersoundDp
+Description: ứng dụng hỗ trợ ngắt tiếng chụp ảnh cho IOS9.
+dev: ca13ra1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byeshuttersoundDp
+Installed-Size: 135
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ByeShutterSound
+Filename: debs//tweaks/com.nguyenhieumb.byeshuttersound.deb
+Size: 11818
+MD5sum: 29ba59f881e3b593408154fa27a6ba7e
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0-1
+
+Package: com.nguyenhieumb.switchservice
+Architecture: iphoneos-arm
+Author: Creatix <ioscreatix@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=switchserviceDp
+Description: Giữ nút Send để chuyển đổi giữa iMsg và SMS
+dev: creatix
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=switchserviceDp
+Icon: file:///Library/PreferenceBundles/SwitchService.bundle/SwitchService@2x.png
+Installed-Size: 297
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwitchService
+Filename: debs//tweaks/com.nguyenhieumb.switchservice.deb
+Size: 42534
+MD5sum: 62437094275877609776147a3d9ffc4a
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 3.0.0
+
+Name: Wifi Passwords List
+Architecture: iphoneos-arm
+Author: Ash Apps <support@multifl0w.com>
+Depends: firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Description: Xem password và thông tin của các mạng wifi đã từng vào
+dev: aaronash
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Icon: file:///Applications/WifiPasswordList.app/Icon-60.png
+Installed-Size: 3512
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Package: com.nguyenhieumb.wifipasswordslist
+Filename: debs//tweaks/com.nguyenhieumb.wifipasswordslist.deb
+Size: 1313934
+MD5sum: 68e3c948d39c325e396b0f39f0ea96c9
+Section: Utilities
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.0.1-1
+
+Package: com.nguyenhieumb.ccquickpro9
+Architecture: iphoneos-arm
+Author: Cunstuck
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols, org.thebigboss.ccquickpro, com.repo.xarold.com.ccquickpro, org.thebigboss.ccquickpro8, com.repo.xarold.com.ccquickpro8
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro9Dp
+Description: shortcuts & powerful options for Control Center
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Name: CCQuick Pro for iOS9
+Filename: debs//tweaks/com.nguyenhieumb.ccquickpro9.deb
+Size: 344476
+MD5sum: 3fd5c3de8a3f6221790adf3e1150ca4a
+Section: Tweaks
+Version: 1.0-3
+
+Package: com.nguyenhieumb.quickclear
+Architecture: iphoneos-arm
+Author: Creatix  & @SUP3RGIU <ioscreatix@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickclearDp
+Description: 3D Touch menu to clear app badge
+dev: creatix
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickclearDp
+Installed-Size: 169
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: QuickClear
+Filename: debs//tweaks/com.nguyenhieumb.quickclear.deb
+Size: 25104
+MD5sum: 1c12562526e8a3bf2a6441ec2d04757e
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.0
+
+Package: com.nguyenhieumb.quicklock46
+Architecture: iphoneos-arm
+Author: nguyenhieumb <nguyenhieumb@dr.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Description: Just touch to lock your device! This package supports iOS 6, 7 8 and 9 Thanks @hieupham
+Installed-Size: 348
+Maintainer: deVbug <devbug@devbug.me>
+Name: quicklock46
+Filename: debs//tweaks/com.nguyenhieumb.quicklock46.deb
+Size: 69884
+MD5sum: c60ec91a911b3ead5f9784b5ac4b3d2e
+Section: Utilities
+Version: 0.0.1-20
+
+Package: com.nguyenhieumb.hotdog
+Architecture: iphoneos-arm
+Author: fidele007 <kforcefidele@yahoo.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotdogDp
+Description: Giúp Tuỳ biến giao diện màn hình khoá và thanh status bar
+dev: fidele007
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hotdogDp
+Icon: file:///Library/PreferenceBundles/hotdogpref.bundle/hotdogpref@2x.png
+Installed-Size: 605
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: HotDog
+Filename: debs//tweaks/com.nguyenhieumb.hotdog.deb
+Size: 138420
+MD5sum: a74cc7c37481a0c3109ebaa9df8e4585
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 3.3.1
+
+Package: com.nguyenhieumb.swipetodeletecontact
+Architecture: iphoneos-arm
+Author: Rene Kahle <packetfahrer@web.de>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Description: Hỗ trợ xoá danh bạ bằng cách vuốt sang bên trái
+dev: packetfahrer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Icon: file:///Library/PreferenceBundles/SwipeToDeleteContact.bundle/SwipeToDeleteContactsPref@2x.png
+Installed-Size: 764
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwipeToDeleteContact
+Filename: debs//tweaks/com.nguyenhieumb.swipetodeletecontact.deb
+Size: 83498
+MD5sum: 60c6cb436baad1c25b7cdd6715e35610
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.5
+
+Package: com.nguyenhieumb.ensemble
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ensembleDp
+Description: CC Controls ngay trong NC
+dev: cpdigitaldarkroom
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ensembleDp
+Installed-Size: 114
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Ensemble
+Filename: debs//tweaks/com.nguyenhieumb.ensemble.deb
+Size: 9238
+MD5sum: 84800f96d79b635b12d1b7dfdf1f0e36
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.2-1
+
+Package: com.nguyenhieumb.safarihistory
+Architecture: iphoneos-arm
+Author: Brave Heart <alsafa7dev@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safarihistoryDp
+Description: delete multiple history cells in Safari
+dev: alsafa7dev
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safarihistoryDp
+Installed-Size: 98
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SafariHistory
+Filename: debs//tweaks/com.nguyenhieumb.safarihistory.deb
+Size: 12958
+MD5sum: cc7491df2c11406e39355c6b9d1f3044
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.0
+
+Package: com.nguyenhieumb.cream
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: firmware (>= 9), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Description: Mang lại màu sắc sống động cho CC Toggles như của Watch OS
+dev: cpdigitaldarkroom
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Icon: file:///Library/PreferenceBundles/Cream.bundle/images/Cream@2x.png
+Installed-Size: 323
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Cream
+Filename: debs//tweaks/com.nguyenhieumb.cream.deb
+Size: 97920
+MD5sum: 0bda38362953e91c0473fb14ad38809c
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 0.0.5
+
+Package: com.nguyenhieumb.magiclabels
+Architecture: iphoneos-arm
+Author: vXBaKeRXv <vxbakerxv@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depiction: http://modmyi.com/info/magiclabels.d.php
+Description: Color App or Folder Icon Labels Individually.
+Homepage: http://modmyi.com/info/magiclabels.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: MagicLabels
+Filename: debs//tweaks/com.nguyenhieumb.magiclabels.deb
+Size: 137410
+MD5sum: da6230ec2a0af2a1f268784b35661b59
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Version: 1.0
+
+Package: com.nguyenhieumb.wolfram
+Architecture: iphoneos-arm
+Author: Cornelius Koetting <cornelius@koettingfamily.de>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolframDp
+Description: Sạc nhanh cho IOS!
+dev: bananastudios
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolframDp
+Icon: file:///Library/PreferenceBundles/wolfram.bundle/icon@2x.png
+Installed-Size: 335
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Wolfram
+Filename: debs//tweaks/com.nguyenhieumb.wolfram.deb
+Size: 73450
+MD5sum: 10e8972b32ef6fcec7ab267048159de0
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.1-1
+
+Package: com.nguyenhieumb.apptodebchuan
+Architecture: iphoneos-arm
+Author: Philippe
+Depiction: http://repo.insanelyi.com/depiction.php?package=apptodeb
+Description: An app to recreate deb files.
+Maintainer: insanelyi <noreply@insanelyi.com>
+Name: AppToDeb
+Filename: debs//tweaks/com.nguyenhieumb.apptodebchuan.deb
+Size: 67774
+MD5sum: a18eb91c3ae33deb6bcb89548321ba61
+Section: Tweaks
+Sponsor: insanelyi <http://insanelyi.com>
+Version: 1.2
+
+Package: com.nguyenhieumb.audiorecorder
+Architecture: iphoneos-arm
+Author: Elias Limneos <limneoselias@gmail.com>
+Conflicts: net.limneos.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+Description: Ghi âm cuộc gọi cho IOS 8 n 9
+Installed-Size: 7664
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Name: AudioRecorder 2 (iOS 8 & 9)
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2.deb
+Size: 3040622
+MD5sum: 6b55d46f3587f3d0b0633894160dd881
+Section: Tweaks
+Version: 1.3-37
+
+Package: com.nguyenhieumb.quickcenter
+Architecture: iphoneos-arm
+Author: Creatix
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, jp.ashikase.libcrashreport, jp.ashikase.libpackageinfo, jp.ashikase.libsymbolicate
+Depiction: http://repo.xarold.com/depiction.php?id=quickcenter
+Description: Ứng dụng nhỏ thêm hiêu ứng nhấn giữ vào các icon của CC!!!
+Icon: file:///Library/PreferenceBundles/quickcenter.bundle/icon@2x.png
+Name: QuickCenter
+Filename: debs//tweaks/com.nguyenhieumb.quickcenter.deb
+Size: 1111866
+MD5sum: 3f26bbf1d752318943395390d0b0723b
+Section: Tweaks
+Version: 1.0.5
+
+Package: com.nguyenhieumb.minitime
+Architecture: iphoneos-arm
+Author: J.C.T <jct@82flex.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minitimeDp
+Description: Hiển thị miniTime trên màn hình khoá.
+dev: jct
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minitimeDp
+Icon: file:///Library/PreferenceBundles/miniTimePrefs.bundle/miniTimePrefs@2x.png
+Installed-Size: 451
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: miniTime
+Filename: debs//tweaks/com.nguyenhieumb.minitime.deb
+Size: 119140
+MD5sum: f5d6a1f8d226db7bbc2c10134f711574
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.4-6
+
+Package: com.nguyenhieumb.anemone
+Architecture: iphoneos-arm
+Author: AnemoneTeam <info@anemonetheming.com>
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Description: An awesome theme manager!
+dev: anemonetheming
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anemoneDp
+Icon: file:///Applications/Anemone.app/icon.png
+Installed-Size: 5311
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Anemone
+Filename: debs//tweaks/com.nguyenhieumb.anemone.deb
+Size: 3926536
+MD5sum: 405d78a2bdc8a30094448363b3a5cff4
+Priority: optional
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.1-213
+
+Package: com.nguyenhieumb.veexillum
+Architecture: iphoneos-arm
+Author: veerklempt
+Depends: winterboard
+Depiction: themes veexillum cho IP 5- 5s - 6 - 6S - 6+ 6S+
+Description: True Simplicity
+Name: Veexillum
+Filename: debs//themes/com.nguyenhieumb.veexillum.deb
+Size: 16178022
+MD5sum: 3a7e061c10fa6bce232300e85959eb92
+Section: Themes
+Version: 1.9.1
+
+Package: com.nguyenhieumb.aceelcap
+Architecture: iphoneos-arm
+Author: anasgaberali
+Depends: winterboard
+Depiction: http://repo.xarold.com/depiction.php?id=aceelcap
+Description: Bring OS X El Capitan to you iOS devices .
+Name: Ace El Cap
+Filename: debs//themes/com.nguyenhieumb.aceelcap.deb
+Size: 32108930
+MD5sum: c1f5f0ba2fb0dd597bda9a7a1789dfe7
+Section: Themes
+Version: 1.3
+
+Package: com.nguyenhieumb.liveringing
+Architecture: iphoneos-arm
+Author: Rene Tejeda <renet.tejeda@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
+Description: Video nhạc chuông hình!!!
+dev: renettejeda
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=liveringingDp
+Icon: file:///Library/PreferenceBundles/liveRingingPrefs.bundle/liveRingingPrefs@2x.png
+Installed-Size: 551
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: LiveRinging
+Filename: debs//tweaks/com.nguyenhieumb.liveringing.deb
+Size: 155010
+MD5sum: 5d41d367f759b101f6167778fb5029a6
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
+Version: 1.0.7
+
+Package: com.nguyenhieumb.mediadownload
+Architecture: iphoneos-arm
+Author: mobileapps <mobileapps2014@yandex.com>
+Depiction: http://modmyi.com/info/mediadownloader.d.php
+Description: Ứng dụng hỗ trợ download mạnh mẽ
+Homepage: http://modmyi.com/info/mediadownloader.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: Media Downloader
+Filename: debs//tweaks/com.nguyenhieumb.mediadownload.deb
+Size: 9870206
+MD5sum: 58a3b6505cf8945a9bca399bd15d64b0
+Priority: extra
+Section: Utilities
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Version: 2.8
+
+Package: com.nguyenhieumb.mterminal
+Architecture: iphoneos-arm
+Author: lordscotland <admin@officialscheduler.com>
+Depends: firmware (>= 4.0), system-cmds
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Description: A MobileTerminal fork
+dev: officialscheduler
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Icon: file:///Applications/MTerminal.app/Icon.png
+Installed-Size: 325
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: MTerminal
+Filename: debs//tweaks/com.nguyenhieumb.mterminal.deb
+Size: 129152
+MD5sum: 76c5cdc87696782547e3b3c2e85c81c0
+Section: Utilities
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.4-5
+
+Package: com.nguyenhieumb.apt-cydiarestore
+Architecture: iphoneos-arm
+Author: Manuel Ante <aptcydiarestore@gmail.com>
+Depends: mobilesubstrate
+Depiction: chạy Mterminal (ko sử dụng mobile terminal) login với root và chạy lệnh del-run để restore và reset cydia.
+Description: Restore - Reset iOS và Cydia hỗ trợ các IOS
+Icon: file:///Applications/CydiaRestore.app/AppIcon60x60@2x
+Maintainer: Manuel Ante <aptcydiarestore@gmail.com>
+Name: Cydia Restore
+Filename: debs//tweaks/com.nguyenhieumb.apt-cydiarestore.deb
+Size: 33540
+MD5sum: 8abf6d2aed4bb0b573a3f5d80bcb3bbd
+Section: Tweaks
+Version: 7.6.5
+
+Package: com.nguyenhieumb.apphide
+Architecture: iphoneos-arm
+Author: Jerry En <Jerry+apphide@jerryen.com>
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Depiction: http://cydia.jerryen.com/apphide.html
+Description:Phần mềm hỗ trợ ẩn các ứng dụng.
+dev: 
+Homepage: 
+Icon: 
+Installed-Size: 280
+Name: AppHide
+Filename: debs//tweaks/com.nguyenhieumb.apphide.deb
+Size: 13316
+MD5sum: 1834e0fe9363f3005bb7884d9cb8bb60
+Section: Tweaks
+Version: 0.2.3-2
+
+Package: com.nguyenhieumb.zingmp3download
+Architecture: iphoneos-arm
+Author: NguyenHungA5
+Depends: mobilesubstrate
+Description: Tweak for Zing mp3, Hỗ trợ download nhạc chất lượng cao
+Name: Zing Mp3 Download
+Filename: debs//tweaks/com.nguyenhieumb.zingmp3download.deb
+Size: 19338
+MD5sum: 34ca8e59b19e0fc247df0c44196eb176
+Section: Tweaks
+Version: 0.0.6-15
+
+Package: com.nguyenhieumb.cydown
+Architecture: iphoneos-arm
+Author: julioverne <julioverne@me.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Description: Hỗ trợ download phần mềm bản quyền từ cydia
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Maintainer: Julio
+Name: CyDown
+Filename: debs//tweaks/com.nguyenhieumb.cydown.deb
+Size: 1797662
+MD5sum: 4fb6610d450326ee994462628dc17156
+Section: Tweaks
+Version: 6.5.9
+
+Package: com.nguyenhieumb.ccsettings.ios8
+Architecture: iphoneos-arm
+Author: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.ccsettings
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Description: Thêm các tiện ích cho control center
+dev: plipala
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Icon: file:///Library/PreferenceBundles/CCSettingsPreferences.bundle/CCSettingsPreferences@2x.png
+Installed-Size: 3310
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCSettings for iOS 8/9
+Filename: debs//tweaks/com.nguyenhieumb.ccsettings.ios8.deb
+Size: 1100644
+MD5sum: f161139c0db903b6c863b7e7050099b2
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 0.0.7-8
+
+Package: com.nguyenhieumb.springtomize3mod
+Architecture: iphoneos-arm
+Author: Filippo & Janosch
+Conflicts: com.filippobiga.springtomize2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Depiction: http://repo.xarold.com/depiction.php?id=springtomize3
+Description: Customize your device like never before.
+Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
+Name: Springtomize 3 (iOS 9/8/7)
+Filename: debs//tweaks/com.nguyenhieumb.springtomize3mod.deb
+Size: 866802
+MD5sum: b5a5c11e5a20095052715122f28a1ec9
+Section: Tweaks
+Version: 1.4.5-1
+
+Package: com.nguyenhieumb.superrecorderios9
+Architecture: iphoneos-arm
+Author: hAcx
+Conflicts: repo.so.superrecorder, org.hacx.callrecorder, repo.so.callrecorder
+Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
+Description: Công cụ ghi âm cuộc gọi!
+Name: Super Recorder IOS9
+Filename: debs//tweaks/com.nguyenhieumb.superrecorderios9.deb
+Size: 21067304
+MD5sum: e783ed74914c34e35e1e3a58a74f7f9f
+Section: Tweaks
+Version: 2.07-3
+
+Package: com.nguyenhieumb.icleanerpro
+Architecture: iphoneos-arm
+Author: Ivano Bilenchi <support@ib-soft.net>
+Conflicts: org.altervista.exilecom.icleaner
+Depends: firmware (>= 4.0)
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Description: The first real iOS system cleaner & optimizer
+Homepage: http://ib-soft.net/icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro
+Filename: debs//tweaks/com.nguyenhieumb.icleanerpro.deb
+Size: 5046202
+MD5sum: c6e235f87f5e0f4907d7736427558a4e
+Pre-Depends: apt, findutils, shell-cmds
+Replaces: org.altervista.exilecom.icleaner
+Section: Utilities
+Version: 7.6.1
+
+Package: com.nguyenhieumb.virtualhome8n9
+Architecture: iphoneos-arm
+Author: moeseth <cydia@wootylab.com>
+Conflicts: com.w00tylab.virtualhome
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 8.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=virtualhome8Dp
+Description: Ứng dụng hỗ trợ chạm nút home thay cho việc bấm nút home
+dev: moeseth
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=virtualhome8Dp
+Icon: file:///Library/PreferenceBundles/VirtualHome.bundle/virtualhome@2x.png
+Installed-Size: 349
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: VirtualHome 8 n 9
+Filename: debs//tweaks/com.nguyenhieumb.virtualhome8n9.deb
+Size: 110736
+MD5sum: f4ea48778580309067a638bc356bca8b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Version: 2.0-1
+
+Package: com.nguyenhieumb.tage
+Architecture: iphoneos-arm
+Author: Ma Jun <majun3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Description: Quản lý thao tác đa nhiệm tuyệt vời cho IOS
+dev: clezz
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Installed-Size: 2092
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Tage
+Filename: debs//tweaks/com.nguyenhieumb.tage.deb
+Size: 622066
+MD5sum: c479c6eb4e061a641675dbd2f76d4515
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.2.2-1
+
+Package: com.nguyenhieumb.masterball
+Architecture: iphoneos-arm
+Author: CokePokes
+Depends: firmware (>= 5.0), mobilesubstrate
+Depiction: 
+Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken state
+dev: 
+Homepage: 
+Icon: 
+Name: Masterball
+Filename: debs//tweaks/com.nguyenhieumb.masterball.deb
+Size: 10312
+MD5sum: ba8ce7970c3d5748ca595fd1f055babc
+Priority: optional
+Section: Tweaks
+Version: 1.0-2
+
+Package: com.nguyenhieumb.locationfaker8n9
+Architecture: iphoneos-arm
+Author: Cunstuck
+Conflicts: org.thebigboss.locationchangerx, com.repo.xarold.com.locationchangerx
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Depiction: http://repo.xarold.com/depiction.php?id=locationfaker8
+Description: Giả lập vị trí cho IOS 8  và IOS 9
+Icon: file:///Applications/LocationChanger.app/icon.png
+Name: LocationFaker8n9
+Filename: debs//tweaks/com.nguyenhieumb.locationfaker8n9.deb
+Size: 558846
+MD5sum: 45faea9b10cc13b8178f3f5f2fee0f1a
+Section: Tweaks
+Version: 1.2-9
+
+Package: com.nguyenhieumb.splitify
+Architecture: iphoneos-arm
+Author: maximehip <imax-my@live.fr>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=splitifyDp
+Description: Ứng dụng hỗ trợ chia đôi màn hình trên IOS9
+dev: maximehip
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=splitifyDp
+Icon: file:///Library/PreferenceBundles/Splitify.bundle/splitify@2x.png
+Installed-Size: 283
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Splitify
+Filename: debs//tweaks/com.nguyenhieumb.splitify.deb
+Size: 43922
+MD5sum: 064dfc259b0e3dbd698730577a12b177
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.3.4
+
+Package: com.nguyenhieumb.pgpatch
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Conflicts: com.cokepokes.masterball, com.ryleyangus.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.williamcobb.pokemongoanywhere, com.williamcobb.pokemongoanywherebeta
+Depends: mobilesubstrate, firmware (>= 7.0), com.nguyenhieumb.xcon-pokemongo
+Description: Cho phep Pokemon chay tren cac may JB
+dev: i4iphones
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Poke Patch for Pokemon Go!
+Filename: debs//tweaks/com.nguyenhieumb.pgpatch.deb
+Size: 8338
+MD5sum: 13dd6a78c4c689620e07bc817f72299b
+Priority: optional
+Section: Tweaks
+Tag: purpose::extension, role::enduser
+Version: 1.0r-9
+
+Package: com.nguyenhieumb.xcon-pokemongo
+Architecture: iphoneos-arm
+Author: Lunatik
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner, com.n00neimp0rtant.xcon
+Depends: mobilesubstrate, com.nguyenhieumb.pgpatch
+Depiction: Cho phép máy jailbreak choi đc pokemon go
+Description: Cho phép máy jailbreak choi đc pokemon go
+Maintainer: Lunatik
+Name: xCon for PokemonGo
+Filename: debs//tweaks/com.nguyenhieumb.xcon-pokemongo.deb
+Size: 142430
+MD5sum: b69bca51893ce6a26482909ea086940f
+Provides: com.nguyenhieumb.xcon
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner, com.n00neimp0rtant.xcon
+Section: Tweaks
+Version: 45-1
+
+Package: com.nguyenhieumb.xcon
+Architecture: iphoneos-arm
+Author: Lunatik & JailbreakVideo
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Depends: mobilesubstrate (>= 0.9.6101), killall
+Depiction: http://repo.insanelyi.com/depiction.php?package=xcon
+Description: xCon — bypass detect JB
+Icon: file:///Applications/Cydia.app/Sections/JV Tweaks.png
+Installed-Size: 350
+Maintainer: insanelyi <noreply@insanelyi.com>
+Name: xCon
+Filename: debs//tweaks/com.nguyenhieumb.xcon.deb
+Size: 86466
+MD5sum: e51b9192c5157095f9fdc0a0debc25fe
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Section: iTweaks
+Sponsor: insanelyi <http://insanelyi.com>
+Version: 41
+
+Package: com.nguyenhieumb.springtomize3Fix
+Architecture: iphoneos-arm
+Author: nguyenhieumb
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Depiction: Springtomize 3Fix for iOS 7x - 10x.
+Description: Springtomize 3Fix for iOS 7x - 10x.
+Name: Springtomize 3Fix for iOS 7x - 10x.
+Filename: debs//tweaks/com.nguyenhieumb.springtomize3Fix.deb
+Size: 410820
+MD5sum: a6f660e8d36132d66bef95e4cb924c73
+Section: Tweaks
+Version: 1.4fix
+
+Package: com.nguyenhieumb.ccdata
+Architecture: iphoneos-arm
+Author: Jamie Bishop
+Depends: mobilesubstrate
+Description: Thêm tuỳ chỉnh tắt mở 3G trong Control Center!
+Installed-Size: 232
+Maintainer: Jamie Bishop
+Name: CCData
+Filename: debs//tweaks/com.nguyenhieumb.ccdata.deb
+Size: 23946
+MD5sum: a6a70739f152acc96500cf27ad36452d
+Section: Tweaks
+Version: 1.0-1+debug
+
+Package: com.nguyenhieumb.ccrecord
+Architecture: iphoneos-arm
+Author: cole cabral @ca13ra1 <cabralcole@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecordDp
+Description: Ghi màn hình từ control center - tích hợp với flipswitch
+dev: ca13ra1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecordDp
+Installed-Size: 271
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCRecord
+Filename: debs//tweaks/com.nguyenhieumb.ccrecord.deb
+Size: 17786
+MD5sum: cb7682a3f9b06cb88bb77696d4363119
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10
+Version: 0.0.1-4
+
+Package: com.nguyenhieumb.adblockforyoutube
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depends: firmware (>= 8.0)
+Depiction: 
+Description: Chặn quảng cáo youtube trên 10.1.x
+dev: freemanrepo
+Name: AdBlock for YouTube
+Filename: debs//tweaks/com.nguyenhieumb.adblockforyoutube.deb
+Size: 37982
+MD5sum: 318ebf7222cc3b86b698286ac627e928
+Priority: optional
+Section: Tweaks
+Version: 1.0.0
+
+Package: com.nguyenhieumb.touchr
+Architecture: iphoneos-arm
+Author: Ma Jun <majun3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchrDp
+Description: nút home ảo tuyệt vời!!!
+dev: clezz
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchrDp
+Icon: file:///Library/PreferenceBundles/TouchrSettings.bundle/Icon-small@2x.png
+Installed-Size: 740
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Touchr
+Filename: debs//tweaks/com.nguyenhieumb.touchr.deb
+Size: 206446
+MD5sum: 471caa24e6ed4c91e75d830c729713c0
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.0.2
+
+Package: com.nguyenhieumb.notodayview
+Architecture: iphoneos-arm
+Author: @ijapija00 <ijapija00@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notodayviewDp
+Description: ẩn màn hình Today View trên iOS 10.
+dev: ijapija00
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notodayviewDp
+Icon: file:///Library/PreferenceBundles/NoTodayView.bundle/NoTodayView@2x.png
+Installed-Size: 302
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: NoTodayView (iOS 10)
+Filename: debs//tweaks/com.nguyenhieumb.notodayview.deb
+Size: 37806
+MD5sum: 2450bf7c7a25813f9e60b64309bf151f
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10
+Version: 1.0.2
+
+Package: com.nguyenhieumb.redeb
+Architecture: iphoneos-arm
+Author: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6),com.nguyenhieumb.mterminal
+Depiction: Đóng lại file deb bằng mterminal;
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Maintainer: T.Herak <50dc856b@opayq.com>
+Name: redeb
+Filename: debs//tweaks/com.nguyenhieumb.redeb.deb
+Size: 3754
+MD5sum: 2226f0994230a8d9a2b7277aeb774589
+Priority: optional
+Section: Tweaks
+Version: 1.0.3
+
+Package: com.nguyenhieumb.bke
+Architecture: iphoneos-arm
+Author: Rishanan
+Depends: mobilesubstrate
+Description: Bàn phím đen mọi lúc mọi nơi!!!
+Installed-Size: 117
+Maintainer: Rishanan
+Name: BlackKeyboardEverywhere
+Filename: debs//tweaks/com.nguyenhieumb.bke.deb
+Size: 4608
+MD5sum: 065b639d7f37d62e2d15056020b072cb
+Section: Tweaks
+Version: 1.0
+
+Package: com.nguyenhieumb.outofcontrol
+Architecture: iphoneos-arm
+Author: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Description: Random màu sắc các nút trong Control Center
+Installed-Size: 136
+Maintainer: Antique <boernai290@gmail.com>
+Name: OutOfControl
+Filename: debs//tweaks/com.nguyenhieumb.outofcontrol.deb
+Size: 5772
+MD5sum: 681d085b90b3349f8aee00710694cf75
+Section: Tweaks
+Version: 6.1a
+
+Package: com.nguyenhieumb.preferenceorganizer2
+Architecture: iphoneos-arm
+Author: Karen, Hiraku, Gary, Eliz, insanj <angelXwind@angelxwind.net>
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs, net.angelxwind.karenlocalizer
+Depiction: Sắp xếp setting của bạn thành 4 mục: System Apps, Social Networking Apps, Tweaks, and App Store Apps.
+Description: Sắp xếp setting của bạn thành 4 mục: System Apps, Social Networking Apps, Tweaks, and App Store Apps.
+Icon: file:///Library/PreferenceBundles/POPreferences.bundle/Tweaks@2x.png
+Installed-Size: 468
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Name: PreferenceOrganizer 2
+Filename: debs//tweaks/com.nguyenhieumb.preferenceorganizer2.deb
+Size: 67332
+MD5sum: 945cf88406f0194dc0ef65610c29a42c
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Section: Tweaks
+Version: 3.6
+
+Package: com.nguyenhieumb.swipe2killall
+Architecture: iphoneos-arm
+Author: MartinPham
+Depends: mobilesubstrate
+Description: Vuốt Homescreen trong AppSwitcher để kill ứng dụng chạy ngầm
+Installed-Size: 124
+Maintainer: MartinPham
+Name: swipe2killall
+Filename: debs//tweaks/com.nguyenhieumb.swipe2killall.deb
+Size: 9290
+MD5sum: 408ae178b6ab73435f739a746a49da0f
+Section: Tweaks
+Version: 0.0.1-3+debug
+
+Package: com.nguyenhieumb.touchhome
+Architecture: iphoneos-arm
+Author: TouchHome
+Depends: mobilesubstrate
+Description: Sử dụng TouchID làm nút home ảo.
+Installed-Size: 124
+Maintainer: TouchHome
+Name: TouchHome
+Filename: debs//tweaks/com.nguyenhieumb.touchhome.deb
+Size: 8124
+MD5sum: c4503b4e56c780785844b9db528eddf2
+Section: Tweaks
+Version: 0.0.1-25+debug
+
+Package: com.nguyenhieumb.circa
+Architecture: iphoneos-arm
+Author: Guillermo Moran
+Depends: mobilesubstrate
+Description: Bo tròn các icong trên springboard!!
+Installed-Size: 228
+Maintainer: Guillermo Moran
+Name: Circa
+Filename: debs//tweaks/com.nguyenhieumb.circa.deb
+Size: 66240
+MD5sum: 70b9dc770f7f12c34359e2500a750b69
+Section: Tweaks
+Version: 0.0.1-1
+
+Package: com.nguyenhieumb.noctis
+Architecture: iphoneos-arm
+Author: LaughingQuoll
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Description: A Dark Mode!
+Installed-Size: 1106
+Maintainer: LaughingQuoll
+Name: Noctis
+Filename: debs//tweaks/com.nguyenhieumb.noctis.deb
+Size: 298152
+MD5sum: 6f4218c5c7bfcbffb40edd587895aa45
+Section: Tweaks
+Version: 1.7.4.1-1+debug
+
+Package: com.nguyenhieumb.sftpenabler
+Architecture: iphoneos-arm
+Author: julioverne
+Conflicts: openssh
+Depends: openssl, firmware (>> 9)
+Description: cho phép kết nối SFTP qua SSH Dropbear trên iOS 10
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: SFTPEnabler
+Filename: debs//tweaks/com.nguyenhieumb.sftpenabler.deb
+Size: 34332
+MD5sum: cc1e3c0ce2b537cc27054a712d243304
+Section: Networking
+Version: 0.1
+
+Package: com.nguyenhieumb.dropbearswitch
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
+Description: SSH Toogle cho Flipswitch trên iOS 10
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: DropbearSwitch
+Filename: debs//tweaks/com.nguyenhieumb.dropbearswitch.deb
+Size: 22482
+MD5sum: fe45cd9f9ab8fd775a21e93ae0284f93
+Section: Addons (Flipswitch)
+Version: 0.3
+
+Package: com.nguyenhieumb.otablocker
+Architecture: iphoneos-arm
+Author: julioverne
+Description: Chặn cập nhật OTA trên các máy đã JB
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: OTABlocker
+Filename: debs//tweaks/com.nguyenhieumb.otablocker.deb
+Size: 5276
+MD5sum: 5f8eda4b91fb1c8d812ab2dc21a0c685
+Section: Utilities
+Version: 0.1
+
+Package: com.nguyenhieumb.quickdo
+Architecture: iphoneos-arm
+Author: Ma Jun <majun3@gmail.com>
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Description: Quản lý đa nhiệm tuyệt vời trên IOS 
+Homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
+Installed-Size: 6520
+Maintainer: Clezz.com <majun3@gmail.com>
+Name: QuickDo
+Filename: debs//tweaks/com.nguyenhieumb.quickdo.deb
+Size: 1744352
+MD5sum: 70d0d760195f8f2785bd4a7f11c8556c
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Section: Tweaks
+Version: 3.9.4
+
+Package: com.nguyenhieumb.callconnect
+Architecture: iphoneos-arm
+Author: Phillip Tennen <phillip.ennen@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callconnectDp
+Description: Rung khi kết nối cuộc gọi (hỗ trợ IOS 10)
+dev: phillipt
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callconnectDp
+Installed-Size: 81
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CallConnect
+Filename: debs//tweaks/com.nguyenhieumb.callconnect.deb
+Size: 4718
+MD5sum: 13904479ef45e7b7bba31c2a9e9c8b4c
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.3-1
+
+Package: com.nguyenhieumb.fingal
+Architecture: iphoneos-arm
+Author: Charlie Hewitt <contact@chewitt.me>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Depiction: http://modmyi.com/info/fingal.d.php
+Description: Icon động trên IOS 8-9-10
+Homepage: http://modmyi.com/info/fingal.php
+Icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: Fingal
+Filename: debs//themes/com.nguyenhieumb.fingal.deb
+Size: 7786206
+MD5sum: b00e6619cee8dccb33ada7e01b577fa4
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Version: 1.0.0
+
+Package: com.nguyenhieumb.certremaintime
+Author: lululombard <contact@lululombard.fr>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CertRemainTime
+Filename: debs//tweaks/com.nguyenhieumb.certremaintime.deb
+Size: 507098
+MD5sum:e6e8ed57ae583413f0be2cffcd591eef
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Section: Utilities
+Installed-Size: 864
+Version: 2.3.4-2
+Architecture: iphoneos-arm
+Description: Ứng dụng kiểm tra thời gian còn lại của tool JB trước khi phải cài lại
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certtimeremainingDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lululombard
+Tag: purpose::uikit, compatible::ios9, compatible::ios10
+Icon: file:///Applications/CertRemainTime.app/Icon.png
+
+Package: com.nguyenhieumb.motuumls
+Architecture: iphoneos-arm
+Author: CreatureSurvive <dbuehre@me.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.motuumls/index.html
+Description: Tuỳ biến thanh đồng hồ và thêm biểu tượng pin trên LockScreen
+Installed-Size: 664
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Name: motuumLS
+Filename: debs//tweaks/com.nguyenhieumb.motuumls.deb
+Size: 144948
+MD5sum: c7c8efe9583baab074089970f83569f2
+Pre-Depends: firmware (>= 10.0)
+Section: Tweaks
+Version: 2.0.9
+
+Package: com.nguyenhieumb.dropbearssh
+Architecture: iphoneos-arm
+Author: ichitaso
+Conflicts: openssh, com.ichitaso.sshflipswitch, com.jamied360.switch.ssh, org.coolstar.scp-sftp-dropbear, com.julioverne.dropbearswith, com.brunonfl.wifisshfordropbear
+Depends: firmware (>= 10.0), com.a3tweaks.flipswitch, openssl
+Depiction: http://cydia.ichitaso.com/depiction/dropbearssh.html
+Description: DropbearSSH for Yalu Jailbreak
+dev: ichitaso
+Homepage: http://ichitaso.com
+Installed-Size: 904
+Maintainer: ichitaso
+Name: DropbearSSH
+Filename: debs//tweaks/com.nguyenhieumb.dropbearssh.deb
+Size: 261528
+MD5sum: 8e06d132b85d565aa691a1e1a957ac12
+Section: Networking
+Version: 1.0.1
+
+Package: com.nguyenhieumb.recentcallsplus
+Architecture: iphoneos-arm
+Author: Olxios&Nico <info@swiftiostutorials.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, gsc.telephony
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=recentcallsplusDp
+Description: Tuỳ biến Call log 1 cách mạnh mẽ và hiệu quả
+dev: olxios
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=recentcallsplusDp
+Icon: file:///Library/PreferenceBundles/RecentCallsPlus.bundle/icon@2x.png
+Installed-Size: 291
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: RecentCalls+
+Filename: debs//tweaks/com.nguyenhieumb.recentcallsplus.deb
+Size: 49480
+MD5sum: a628d23dfaafd6f5f300571d5d6b917f
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Version: 1.0
+
+Package: com.nguyenhieumb.dateinstatusbar
+Architecture: iphoneos-arm
+Author: Redpandadev
+Depends: mobilesubstrate, firmware (>= 8.0)
+Depiction: http://repo.xarold.com/depiction.php?id=dateinstatusbar
+Description: Thêm ngày vào thanh status bar
+Installed-Size: 136
+Name: Date In Statusbar
+Filename: debs//tweaks/com.nguyenhieumb.dateinstatusbar.deb
+Size: 5002
+MD5sum: feee3a0895f7ad57fbd214b4c2ef5287
+Section: Tweaks
+Version: 0.9.1-2
+
+Package: com.nguyenhieumb.senddelay
+Architecture: iphoneos-arm
+Author: GSquared <gsquaredsolutions@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=senddelayDp
+Description: ứng dụng hỗ trợ gửi tin nhắn với độ trễ (cho phép hủy tin nhắn trong trường hợp gửi nhầm)
+dev: gsquared
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=senddelayDp
+Icon: file:///Library/PreferenceBundles/SendDelay.bundle/SendDelay@2x.png
+Installed-Size: 348
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SendDelay
+Filename: debs//tweaks/com.nguyenhieumb.senddelay.deb
+Size: 38372
+MD5sum: e70ab895c7d3058227cbc17896638b2b
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.4-7
+
+Package: com.nguyenhieumb.cracktool2
+Architecture: iphoneos-arm
+Author: julioverne
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Description: Công cụ crack các ứng dụng!!!
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: CrackTool2
+Filename: debs//tweaks/com.nguyenhieumb.cracktool2.deb
+Size: 389800
+MD5sum: 0c5d50ee38aca4cf6c9de50c7a683375
+Section: Utilities
+Version: 2.3~ beta8
+
+Package: com.nguyenhieumb.filza
+Architecture: iphoneos-arm
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Description: Phần mềm quản lý iPhone, iPad, iPod Touch. cho iOS 7+, cài xong các bạn vào phần bản quyền để kích hoạt!!!
+Installed-Size: 31884
+Maintainer: TIGI Software
+Name: Filza File Manager
+Filename: debs//tweaks/com.nguyenhieumb.filza.deb
+Size: 22350106
+MD5sum: 01a0cd38b97a4d2efa459caf25f450a3
+Section: Utilities
+Version: 3.4.0-2
+
+Package: com.nguyenhieumb.mimport
+Architecture: iphoneos-arm
+Author: julioverne <julioverne@me.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Depiction: http://julio.xarold.com/files-deb/mimport.html
+Description: Cho phép thêm nhạc phim vào ipod 
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Maintainer: Julio
+Name: MImport
+Filename: debs//tweaks/com.nguyenhieumb.mimport.deb
+Size: 418438
+MD5sum: 7c0d15cc6e281a9f2d9528a938c8b8e8
+Section: Tweaks
+Version: 0.0~beta17
+
+Package: com.nguyenhieumb.unlimtones
+Architecture: iphoneos-arm
+Author: UnlimApps <UnlimApps@yahoo.com>
+Conflicts: com.i4iphones.unlimtones43, com.i4iphones.mytones, com.sull.unlimtones, com.hackyouriphone.unlimtones3
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlimtonesData
+Description: Phần mềm download/ tự cắt nhạc chuông trên IOS
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlimtonesData
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: UnlimTones
+Filename: debs//tweaks/com.nguyenhieumb.unlimtones.deb
+Size: 10571938
+MD5sum: 108a8bac7306e3038dda641b9240f4b2
+Pre-Depends: firmware (>= 5.0), com.unlimapps.toneenabler | firmware (<< 7.0)
+Replaces: com.i4iphones.unlimtones43, com.i4iphones.mytones, com.sull.unlimtones, com.hackyouriphone.unlimtones3
+Section: Multimedia
+Version: 4.8.3
+
+Package: com.nguyenhieumb.ytpp
+Architecture: iphoneos-arm
+Author: UnlimApps Inc. <support@unlimapps.com>
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.1r-43)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplusplusDp
+Description: Công cụ hữu ích giành cho youtube, hỗ trợ download, xem video nền
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplusplusDp
+Icon: file:///Library/Application%20Support/YouTubePP/APResources.bundle/PlusIcon@2x.png
+Installed-Size: 10106
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: YouTube ++
+Filename: debs//tweaks/com.nguyenhieumb.ytpp.deb
+Size: 3121780
+MD5sum: 46bace510e84d51ceb30b1fc0bdb9b05
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.4r-19
+
+Package: com.nguyenhieumb.filza64bit
+Architecture: iphoneos-arm
+Author: TIGI Software
+Conflicts: com.tigisoftware.filza
+Depends: zip, unzip, gzip, unrar, p7zip
+Description: Phần mềm quản lý iPhone, iPad, iPod Touch. cho iOS 7+, cài xong các bạn vào phần bản quyền để kích hoạt!!! Phiên bản này chỉ hỗ trợ các máy 64 bits
+Installed-Size: 21088
+Maintainer: TIGI Software
+Name: Filza File Manager 64-bit
+Filename: debs//tweaks/com.nguyenhieumb.filza64bit.deb
+Size: 12824322
+MD5sum: 28b39c94a468908aab9903d30a459f31
+Section: Utilities
+Version: 3.4.0-25
+
+Package: com.nguyenhieumb.swipeselection
+Architecture: iphoneos-arm
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Description: Vuốt trên bàn phím để di chuyển con trỏ và select text
+dev: freerunnering
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Installed-Size: 132
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Name: SwipeSelection
+Filename: debs//tweaks/com.nguyenhieumb.swipeselection.deb
+Size: 15298
+MD5sum: 2ffca17e5b261ae68097d36255d8cc2a
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.5.2-1
+
+Package: com.nguyenhieumb.icontool
+Architecture: iphoneos-arm
+Author: ioshack <wsdhr1982@gmail.com>
+Conflicts: com.rpetrich.iconrenamer
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Description: Công cụ hữu ích cho các Icon trên hệ thống
+dev: ioshack
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Installed-Size: 1302
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Icon Tool
+Filename: debs//tweaks/com.nguyenhieumb.icontool.deb
+Size: 385074
+MD5sum: bfacf23596c8b8bbc690752a9ed311ec
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 1.9-6
+
+Package: com.nguyenhieumb.ntspeed
+Architecture: iphoneos-arm
+Author: julioverne <jlio_verne@hotmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate
+Depiction: http://modmyi.com/info/ntspeed.d.php
+Description: Hiển thị tốc độ download mạng trên màn hình
+Homepage: http://modmyi.com/info/ntspeed.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Name: NtSpeed
+Filename: debs//tweaks/com.nguyenhieumb.ntspeed.deb
+Size: 21358
+MD5sum: 27fcb4ad1b16216f88c9d8cb7c357162
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Version: 0.2~beta3
+
+Package: com.nguyenhieumb.iconbounce
+Architecture: iphoneos-arm
+Author: Evan Lucas <evanlucas@me.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconbounceDp
+Description: Icon trên dock sẽ có hiệu ứng động 
+dev: evanlucas
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconbounceDp
+Icon: file:///Library/PreferenceBundles/IconBouncePreferences.bundle/Icon@2x.png
+Installed-Size: 433
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: IconBounce
+Filename: debs//tweaks/com.nguyenhieumb.iconbounce.deb
+Size: 127184
+MD5sum: 3f070a6db06df2f5f80eaff3a00eaf49
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 3.0.0-1
+
+Package: com.nguyenhieumb.speedintensifier
+Architecture: iphoneos-arm
+Author: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), preferenceloader, applist
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp
+Description: Tăng tốc IOS
+dev: pw5a29
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp
+Icon: file:///Library/PreferenceBundles/SIPrefs.bundle/speed@2x.png
+Installed-Size: 435
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Speed Intensifier
+Filename: debs//tweaks/com.nguyenhieumb.speedintensifier.deb
+Size: 61232
+MD5sum: f4f0b4c9a3bb3b1e06cba583f8563495
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 10.1-1
+
+Package: com.nguyenhieumb.aerial
+Architecture: iphoneos-arm
+Author: Surenix
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.6110), preferenceloader
+Depiction: Chỉnh màu sắc các phần của statusbar!
+Description: Chỉnh màu sắc các phần của statusbar!
+Icon: file:///Library/PreferenceBundles/AerialSettings.bundle/AerialSettings@2x.png
+Name: Aerial
+Filename: debs//tweaks/com.nguyenhieumb.aerial.deb
+Size: 872980
+MD5sum: a8e1b425ad5ace1fad97a98b16348572
+Section: Messaging
+Version: 1.1
+
+Package: com.nguyenhieumb.facespro
+Architecture: iphoneos-arm
+Author: Ben Rosen & CPDigitalDarkroom
+Conflicts: org.benrosen.faces, com.repo.xarold.com.faces
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Depiction: Tuỳ biến các nút passcode tuỳ ý!!!
+Description: Tuỳ biến các nút passcode tuỳ ý!!!
+Icon: file:///Library/PreferenceBundles/FacesPro.bundle/FacesPro@2x.png
+Name: Faces Pro
+Filename: debs//tweaks/com.nguyenhieumb.facespro.deb
+Size: 148064
+MD5sum: bbdfe994a6dabd114b3f44de53b57886
+Section: Tweaks
+Version: 1.1
+
+Package: com.nguyenhieumb.randomiconsflip
+Architecture: iphoneos-arm
+Author: Elias Limneos <iphone@limneos.net>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=randomflipData
+Description: homescreen icons flipping over at random
+dev: limneos
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=randomflipData
+Installed-Size: 84
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Random Icon Flip
+Filename: debs//tweaks/com.nguyenhieumb.randomiconsflip.deb
+Size: 10648
+MD5sum: b02d5dbab72098868a8cf4d54abbb9b9
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 0.3-7
+
+Package: com.nguyenhieumb.prismboard
+Architecture: iphoneos-arm
+Author: Orangebananaspy <rsanghav12@yahoo.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=prismboardDp
+Description: đổi màu bàn phím dựa trên icon của ứng dụng
+dev: orangebananaspy
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=prismboardDp
+Icon: file:///Library/PreferenceBundles/PrismBoardRevisited.bundle/PrismBoardRevisited@2x.png
+Installed-Size: 4412
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: PrismBoard
+Filename: debs//tweaks/com.nguyenhieumb.prismboard.deb
+Size: 1438866
+MD5sum: f6e8abcf74d6fa5f9289b088f254b73b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 2.0
+
+Package: com.nguyenhieumb.audiorecorder2ios8910
+Architecture: iphoneos-arm
+Author: Elias Limneos <limneoselias@gmail.com>
+Conflicts: net.limneos.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: Ghi âm cuộc gọi trên IOS 8 - 9 - 10
+Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10
+Installed-Size: 7748
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Name: AudioRecorder 2 (iOS 8,9,10)
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8910.deb
+Size: 3085920
+MD5sum: e82fb2a70358d0a297e8e4a479383a32
+Section: Tweaks
+Version: 1.5-9
+
+Package: com.nguyenhieumb.lockglyphx
+Architecture: iphoneos-arm
+Author: evilgoldfish
+Conflicts: com.evilgoldfish.lockglyph
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Description: LockGlyph cho iOS 10
+Installed-Size: 588
+Maintainer: evilgoldfish
+Name: LockGlyphX Beta (iOS 10)
+Filename: debs//tweaks/com.nguyenhieumb.lockglyphx.deb
+Size: 116498
+MD5sum: 3813fcd6940bf7dcf7fd098e85d68904
+Provides: com.nguyenhieumb.lockglyphx
+Section: Tweaks
+Version: 1.0~b3
+
+Package: com.nguyenhieumb.priorityhub
+Architecture: iphoneos-arm
+Author: Thomas Finch <tomf64@gmail.com>
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Description: Ứng dụng hỗ trợ sắp xếp gọn các thông báo của bạn!
+Homepage: http://thomasfinch.me
+Installed-Size: 452
+Maintainer: Thomas Finch <tomf64@gmail.com>
+Name: Priority Hub 2 BETA
+Filename: debs//tweaks/com.nguyenhieumb.priorityhub.deb
+Size: 88202
+MD5sum: 38e6938042244c26fe183df2f102835e
+Section: Tweaks
+Version: 2.0-44+debug
+
+Package: com.nguyenhieumb.ext3nder-installer
+Architecture: iphoneos-arm
+Author: julioverne
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Description: Cydia Extender Installer With Extra Features
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Name: Ext3nder Installer
+Filename: debs//tweaks/com.nguyenhieumb.ext3nder-installer.deb
+Size: 517486
+MD5sum: 7b359f3e8e7b0597f0bf67d89930387b
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Section: Utilities
+Version: 021a
+
+Package: com.nguyenhieumb.minicc
+Architecture: iphoneos-arm
+Author: Antique
+Depends: mobilesubstrate
+Depiction: Thu nhỏ control center cho IOS 10
+Description: Thu nhỏ control center cho IOS 10
+Installed-Size: 200
+Maintainer: Antique
+Name: MiniCC
+Filename: debs//tweaks/com.nguyenhieumb.minicc.deb
+Size: 7112
+MD5sum:1039697ab81e6924059b29ad23468f18
+Section: Tweaks
+Version: 1.78-1+debug
+
+Package: com.nguyenhieumb.mininc
+Architecture: iphoneos-arm
+Author: Antique
+Depends: mobilesubstrate
+Depiction: thu nhỏ thông tin notification trên notification center cho IOS 10
+Description: thu nhỏ thông tin notification trên notification center cho IOS 10
+Installed-Size: 200
+Maintainer: Antique
+Name: MiniNC
+Filename: debs//tweaks/com.nguyenhieumb.mininc.deb
+Size: 5506
+MD5sum:8270a88ebc1e600677e3562d44f74363
+Section: Tweaks
+Version: 1.87
+
+Package: com.nguyenhieumb.cydiarespringfix
+Architecture: iphoneos-arm
+Author: Guillermo Moran
+Depends: mobilesubstrate
+Description: Fix lỗi restartSpringBoard cho cydia trên 7/7+ sử dụng match_portal Yalu beta 3
+Installed-Size: 136
+Maintainer: Guillermo Moran
+Name: CydiaRespringFix
+Filename: debs//tweaks/com.nguyenhieumb.cydiarespringfix.deb
+Size: 4574
+MD5sum:d6f20c438629416f2c47d747ad082a3f
+Section: Tweaks
+Version: 0.0.1-6
+
+Package: com.nguyenhieumb.appsyncunified
+Architecture: iphoneos-arm
+Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3)
+Depiction: Appsync cho ios 10
+Description: AppSync cho IOS 10
+Installed-Size: 364
+Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Name: AppSync Unified
+Filename: debs//tweaks/com.nguyenhieumb.appsyncunified.deb
+Size: 41976
+MD5sum:1d9ebe41feeb3649b8298dd8a8792ec3
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Section: Tweaks
+Version: 6.0~b1
+
+Package: com.nguyenhieumb.anchor
+Architecture: iphoneos-arm
+Author: Brogan Miner
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.chpwn.iconsupport
+Depiction: Sắp đặt vị trí các icon trên màn hình tuỳ ý.
+Description: Sắp đặt vị trí các icon trên màn hình tuỳ ý.
+Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
+Name: Anchor
+Filename: debs//tweaks/com.nguyenhieumb.anchor.deb
+Size: 132478
+MD5sum:ec100e6d48f263265aba0c258a002057
+Section: Tweaks
+Version: 2.0.4
+
+Package: com.nguyenhieumb.NHMBClock
+Architecture: iphoneos-arm
+Author: NHMB <nguyenhieumb@dr.com>
+Depends: com.eldwin.iwidgets
+Depiction: Đồng hồ tròn kèm Google Launcher
+Description: Đồng hồ tròn kèm Google Launcher
+Maintainer: NHMB <nguyenhieumb@dr.com>
+Name: NHMBClock
+Filename: debs//themes/com.nguyenhieumb.NHMBClock.deb
+Size: 951762
+MD5sum:6ad70e2ad594f501de6bf33c59baf0cb
+Section: Addons (iWidgets)
+Version: 1.0
+
+Package: com.nguyenhieumb.SemiRestoreIOS10
+Architecture: iphoneos-arm
+Author: NHMB
+Depends: com.nguyenhieumb.mterminal
+Description: semirestore ios 10 - sau khi cài đặt chạy lệnh semirs trong terminal
+Maintainer: NHMB
+Name: SemiRestore IOS 10
+Filename: debs//tweaks/com.nguyenhieumb.SemiRestoreIOS10.deb
+Size: 9560
+MD5sum:a712bd5e365742cf398d4645f4dc0e89
+Section: Utilities
+Version: 1.0
+
+Package: com.nguyenhieumb.bioprotect
+Architecture: iphoneos-arm
+Author: Elias Limneos <iphone@limneos.net>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
+Description: Bảo vệ ứng dụng bằng TouchID
+dev: limneos
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/Icon.png
+Installed-Size: 1502
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: BioProtect
+Filename: debs//tweaks/com.nguyenhieumb.bioprotect.deb
+Size: 635732
+MD5sum:2f123e33bd5e86852f1ca653bb395f9b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Version: 2.1-295
+
+Package: com.nguyenhieumb.maizepreview
+Architecture: iphoneos-arm
+Author: Creatix
+Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
+Description: Mang Control Center của IOS 11 lên IOS 10
+Installed-Size: 2588
+Maintainer: Creatix
+Name: Maize (Preview)
+Filename: debs//tweaks/com.nguyenhieumb.maizepreview.deb
+Size: 671610
+MD5sum:34e22afcb9aa5813ea1ab55ec548db9b
+Section: Tweaks
+Tag: compatible::ios10
+Version: 1.2.1
+
+Package: com.nguyenhieumb.newterm2
+Name: NewTerm2
+Depends: firmware (>= 6.0), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, ws.hbang.common (>= 1.11.2)
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal emulator for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Filename: debs//tweaks/com.nguyenhieumb.newterm2.deb
+Size: 626688
+MD5sum:ed5d9270173f78309d350e1e60fbb83b
+Section: Tweaks
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://cydia.hbang.ws/package/ws.hbang.newterm2/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0~beta3
+
+Package: com.nguyenhieumb.audiorecorder2ios8to11
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Version: 1.6-46
+Architecture: iphoneos-arm
+Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Depiction: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Author: Elias Limneos
+Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8to11.deb
+Size: 2475324
+MD5sum:002d9fca56e9f9e39ba38f94db766042
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
+
+Package: com.nguyenhieumb.letmeknow
+Name: LetMeKnow
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Version: 1.2-1
+Architecture: iphoneos-arm
+Description: Rung khi kết nối và ngắt cuộc gọi cho IOS11
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=letmeknowDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=letmeknowDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kiran Patil <patilkiran08@gmail.com>
+Filename: debs//tweaks/com.nguyenhieumb.letmeknow.deb
+Size: 23962
+MD5sum:f5110a1c6fb26a2358886aa39734e774
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 210
+dev: imkpatil
+Icon: file:///Library/PreferenceBundles/LetMeKnowPrefs.bundle/LetMeKnowPrefs.png
+
+Package: com.nguyenhieumb.doubletaplock
+Name: DoubleTapLock [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Bấm 2 lần vào chỗ trống trên màn hình để khoá máy cho IOS11
+Maintainer: Spark
+Author: Spark
+Filename: debs//tweaks/com.nguyenhieumb.doubletaplock.deb
+Size: 23686
+MD5sum:77f90144bb0ecfc87d4672691c8d4bda
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 160
+
+Package: com.nguyenhieumb.safariplus
+Architecture: iphoneos-arm
+Author: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Description: Thêm trình download cho Safari!
+dev: opa334
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 1221
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Plus
+Filename: debs//tweaks/com.nguyenhieumb.safariplus.deb
+Size: 418604
+MD5sum:899453d2919575bb27aec91603a06893
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.5.4-2
