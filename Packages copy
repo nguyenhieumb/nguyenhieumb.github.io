@@ -1457,11 +1457,11 @@ Homepage: http://twitter.com/ijulioverne
 Maintainer: Julio
 Name: Ext3nder Installer
 Filename: debs//tweaks/com.nguyenhieumb.ext3nder-installer.deb
-Size: 172162
-MD5sum: 482c368b0dcc6bf42c61527f81a55932
+Size: 197608
+MD5sum: 05a0c93d78f0ce0d8eb058bd06de70e4
 Pre-Depends: ldid, unzip, coreutils, zip, sed
-Section: Tweaks
-Version: 016
+Section: Utilities
+Version: 021a
 
 Package: com.nguyenhieumb.minicc
 Architecture: iphoneos-arm
