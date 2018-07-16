@@ -1670,3 +1670,23 @@ MD5sum:77f90144bb0ecfc87d4672691c8d4bda
 Section: Tweaks
 Version: 0.0.3
 Installed-Size: 160
+
+Package: com.nguyenhieumb.safariplus
+Architecture: iphoneos-arm
+Author: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Description: Thêm trình download cho Safari!
+dev: opa334
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 1221
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Plus
+Filename: debs//tweaks/com.nguyenhieumb.safariplus.deb
+Size: 418604
+MD5sum:899453d2919575bb27aec91603a06893
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.5.4-2
