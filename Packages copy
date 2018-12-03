@@ -1690,3 +1690,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Version: 1.5.4-2
+
+Package: com.nguyenhieumb.vinap
+Name: NapGame
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Bui Tuan son
+Author: Bui Tuan son
+Filename: debs//vi/com.nguyenhieumb.vinap.deb
+Size: 86930
+MD5sum:238f5691f5d96f7cc98f8a81c116f32e
+Section: Ví
+Version: 0.0.1-54+debug
+Installed-Size: 456
