@@ -1706,3 +1706,17 @@ MD5sum:3ad8d134d2952bf52181228b2577dbd2
 Section: Ví
 Version: 0.0.1-54+debug
 Installed-Size: 456
+
+Package: com.nguyenhieumb.vixa
+Name: XaGame
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hieu Pham
+Author: Hieu Pham
+Filename: debs//vi/com.nguyenhieumb.vixa.deb
+Size: 79160
+MD5sum:8eb1267d88886501cd1cf49c4b63a1a3
+Section: Ví
+Version: 0.0.1-72+debug
+Installed-Size: 444
