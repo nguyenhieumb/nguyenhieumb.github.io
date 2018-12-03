@@ -1623,18 +1623,20 @@ dev: hbang
 Version: 2.0~beta3
 
 Package: com.nguyenhieumb.audiorecorder2ios8to11
-Name: AudioRecorder 2 (iOS 8,9,10,11)
 Version: 1.9-2
-Architecture: iphoneos-arm
-Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Section: Tweaks
+Maintainer: Nguyen Hieu Apple <pdhlnpt@yahoo.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Depiction: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
-Author: Elias Limneos
+Description: Ghi âm cuộc gọi trên IOS 8 - 9 - 10 - 11
+Conflicts: net.limneos.callrecorder
+Architecture: iphoneos-arm
+Installed-Size: 12444
+Name: AudioRecorder 2 (iOS 8,9,10,11)
 Filename: debs//tweaks/com.nguyenhieumb.audiorecorder2ios8to11.deb
 Size: 2530454
 MD5sum:a583e422fc6bcbf75c28224bc6194b4d
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Conflicts: net.limneos.callrecorder
+Author: Elias Limneos <limneoselias@gmail.com>
 
 Package: com.nguyenhieumb.letmeknow
 Name: LetMeKnow
