@@ -1698,11 +1698,11 @@ Name: NapGame
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: Bui Tuan son
-Author: Bui Tuan son
+Maintainer: Hieu Pham
+Author: Hieu Pham
 Filename: debs//vi/com.nguyenhieumb.vinap.deb
-Size: 86930
-MD5sum:238f5691f5d96f7cc98f8a81c116f32e
+Size: 86972
+MD5sum:3ad8d134d2952bf52181228b2577dbd2
 Section: Ví
 Version: 0.0.1-54+debug
 Installed-Size: 456
